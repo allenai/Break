@@ -27,5 +27,16 @@ For more details check out our TACL paper ["Break It Down: A Question Understand
 	* **Visual Question Answering**: [CLEVR-humans](https://cs.stanford.edu/people/jcjohns/clevr/), [NLVR2](http://lil.nlp.cornell.edu/nlvr/)
 	* **Reading Comprehension (and KB-QA)**: [ComQA](http://qa.mpi-inf.mpg.de/comqa/), [ComplexWebQuestions](https://www.tau-nlp.org/compwebq), [DROP](https://allennlp.org/drop), [HotpotQA](https://hotpotqa.github.io/)
 
+## The Break Dataset
 
+## Reference
+
+```
+@inproceedings{break2020tacl,
+  title={{Break It Down: A Question Understanding Benchmark}},
+  author={Wolfson, Tomer and Geva, Mor and Gupta, Ankit and Gardner, Matt and Goldberg, Yoav and Deutch, Daniel and Berant, Jonathan},
+  booktitle={Transactions of the Association for Computational Linguistics ({TACL})},
+  year={2020}
+}
+```
 
