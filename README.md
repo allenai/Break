@@ -9,7 +9,7 @@ For more details check out our TACL paper "Break It Down: A Question Understandi
 
 
 * **Key Links**
-	* **QASC Dataset**: [https://github.com/allenai/Break/tree/master/break_dataset](https://github.com/allenai/Break/tree/master/break_dataset)
+	* **Break Dataset**: [https://github.com/allenai/Break/tree/master/break_dataset](https://github.com/allenai/Break/tree/master/break_dataset)
 	* **Paper**: [Break It Down: A Question Understanding Benchmark
 ](https://arxiv.org/)
 	* **Leaderboard**:  [Coming Soon](https://leaderboard.allenai.org/)
