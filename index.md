@@ -39,7 +39,8 @@ Contains questions over modality 3 from <a href="somelink">**Dataset1**</a>, <a 
 <img src="images/qdmr01.png" height="150">
 <br>
 <img src="images/qdmr02.png" height="150">
-
+<br>
+<img src="images/break_question_modalities.png" height="150">
 
 ## **Paper**
 
