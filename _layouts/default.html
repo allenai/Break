@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+
+    {% if site.google_analytics %}
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}');
+      </script>
+    {% endif %}
+    <meta charset="UTF-8">
+
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  
+    <style>
+body {margin:0;}
+
+.navbar {
+  overflow: hidden;
+  background-color: #3452A0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 15px;
+  text-decoration: none;
+}
+
+.navbar a:hover:not(.active) {
+    color: #c7c7c7;
+}
+      
+.active {
+  background-color:#3452A0;
+  color: white;
+  font-weight: bold;
+  font-size: large;
+}
+
+.main {
+  padding: 0px;
+  margin-top: 40px;
+}
+      
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 12%;
+  display: inline-block;
+  font-size: small;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+  font-size: small;
+}
+      
+p.note
+{
+     -moz-border-radius: 6px;
+     -webkit-border-radius: 6px;
+     background-color: #f0f7fb;
+     background-repeat: no-repeat;
+     border: solid 1px #3498db;
+     border-radius: 6px;
+     line-height: 18px;
+     overflow: hidden;
+     padding: 15px 15px;
+     display: inline-block;
+}
+</style>
+</head>
+<body>
+
+<div class="navbar">
+  <a class="active" href="#home">Break</a>
+  <a href="#contact">About</a>
+  <a href="#news">Paper</a>
+  <a href="#contact">Explore</a>
+</div>
+ 
+ <div class="main">
+    <header class="page-header" role="banner">
+      <h1 class="project-name">Break</h1>
+        <a href="{{ site.github.repository_url }}" class="btn">Paper</a>  
+        <a href="{{ site.github.repository_url }}" class="btn">GitHub</a>
+        <a href="{{ site.github.zip_url }}" class="btn">Download</a>
+        <a href="{{ site.github.tar_url }}" class="btn">Explore</a>
+        <a href="{{ site.github.tar_url }}" class="btn">Leaderboard</a>
+    </header>
+  
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+      <footer class="site-footer">
+          <span class="site-footer-owner">Github Repository</span>
+        <span class="site-footer-credits">Break: A Question Understanding Benchmark</span>
+      </footer>
+    </main>
+   </div>
+  </body>
+</html>

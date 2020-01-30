@@ -1,37 +1,129 @@
-## Welcome to GitHub Pages
+<p float="left">
+  <img src="images/hammer_and_anvil-1.png" height="100">
+  <a href="https://allenai.org/">
+    <img src="images/AI2_Logo_3color.png" height="98">
+  </a>
+  <a href="https://www.tau-nlp.org/">
+    <img src="images/tau_nlp-1.png" height="100">
+  </a>
+</p>
 
-You can use the [editor on GitHub](https://github.com/allenai/Break/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## **A Question Understanding Benchmark**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Released February 2020.  
+[Link to blogpost](/blogpost.md).
 
-### Markdown
+- Merit number one
+- Merit number two
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<div>
+  <p class="note">
+     <i>"Some question"</i>
+  </p>
+</div>
+<div>
+  <p class="note">
+    <i>"A totally different and complex question"</i>
+  </p>
+</div>
+<div>
+  <p class="note">
+      <i>"A totally other question"</i>
+  </p>
+</div>
+
+Contains questions over modality 1 from <a href="somelink">**Dataset1**</a>, <a href="somelink">**Dataset1**</a>, <a href="somelink">**Dataset1**</a> and <a href="somelink">**Dataset1**</a>.  
+Contains questions over modality 2 from <a href="somelink">**Dataset1**</a>, <a href="somelink">**Dataset1**</a>, <a href="somelink">**Dataset1**</a> and <a href="somelink">**Dataset1**</a>.  
+Contains questions over modality 3 from <a href="somelink">**Dataset1**</a>, <a href="somelink">**Dataset1**</a>, <a href="somelink">**Dataset1**</a> and <a href="somelink">**Dataset1**</a>.  
+
+<img src="images/qdmr.png" height="150">
+
+
+## **Paper**
+
+
+<a href="https://arxiv.org/">
+  **Paper Name**  
+</a>
+*Authors List*  
+Publication Venue 2020  
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+@inproceedings{some2020paper,
+  title={Paper Title},
+  author={FirstName1, LastName1 and FirstName2, LastName2 and FirstName3, LastName3 and FirstName4, LastName4 and FirstName5, LastName5 and FirstName6, LastName6 and FirstName7, LastName7},
+  booktitle={The Journal},
+  year={2020}
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## **Authors**
 
-### Jekyll Themes
+> Talent wins games, but teamwork and intelligence wins championships.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/allenai/Break/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+*Michael Jordan*
 
-### Support or Contact
+<div>
+<div class="card">
+  <img src="images/icon.png" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4>  
+  </div>
+</div>
+<div class="card">
+  <img src="images/icon.png" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4> 
+  </div>
+</div>
+<div class="card">
+  <img src="images/icon.png" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4> 
+  </div>
+</div>
+<div class="card">
+  <img src="images/icon.png" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4> 
+  </div>
+</div>
+<div class="card">
+  <img src="images/icon.png" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4> 
+  </div>
+</div>
+<div class="card">
+  <img src="images/icon.png" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4> 
+  </div>
+</div>
+<div class="card">
+  <img src="images/icon.png" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4> 
+  </div>
+</div>
+</div>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## **Leaderboard**
+
+### **Submission**
+Official Leaderboard submission.
+
+### **Results**
+
+Rank | Submission | Created | EM Dev. | EM Test
+------------ | ------------- | ------------- | ------------- | -------------
+1 | First Model | First Model | `00.00`  | `00.00`
+2 | Second Model | Second Model | `00.00`  | `00.00` 
+
+
+## **Explore**
+[Link to blogpost](/explore.md).
+
+## **Download**
+Click here
