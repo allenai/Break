@@ -24,8 +24,8 @@ For more details check out our TACL paper ["Break It Down: A Question Understand
 
 * The Break dataset contains questions from the following 10 datasets: 
 	* **Semantic Parsing**: [Academic](https://github.com/jkkummerfeld/text2sql-data), [ATIS](https://github.com/jkkummerfeld/text2sql-data), [GeoQuery](https://github.com/jkkummerfeld/text2sql-data), [Spider](https://yale-lily.github.io/spider), 
-	* **Visual Question Answering**: [CLEVR-humans](https://), [NLVR2](https://)
-	* **Reading Comprehension (and KB-QA)**: [CommunityQA](https://), [ComplexWebQuestions](https://), [DROP](https://) and [HotpotQA](https://).
+	* **Visual Question Answering**: [CLEVR-humans](https://cs.stanford.edu/people/jcjohns/clevr/), [NLVR2](http://lil.nlp.cornell.edu/nlvr/)
+	* **Reading Comprehension (and KB-QA)**: [ComQA](http://qa.mpi-inf.mpg.de/comqa/), [ComplexWebQuestions](https://www.tau-nlp.org/compwebq), [DROP](https://allennlp.org/drop) and [HotpotQA](https://hotpotqa.github.io/).
 
 
 
