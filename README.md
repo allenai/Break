@@ -32,11 +32,11 @@ For more details check out our TACL paper ["Break It Down: A Question Understand
 ## Reference
 
 ```
-@inproceedings{break2020tacl,
-  title={{Break It Down: A Question Understanding Benchmark}},
+@article{Wolfson2020Break,
+  title={Break It Down: A Question Understanding Benchmark},
   author={Wolfson, Tomer and Geva, Mor and Gupta, Ankit and Gardner, Matt and Goldberg, Yoav and Deutch, Daniel and Berant, Jonathan},
-  booktitle={Transactions of the Association for Computational Linguistics ({TACL})},
-  year={2020}
+  journal={Transactions of the Association for Computational Linguistics},
+  year={2020},
 }
 ```
 
