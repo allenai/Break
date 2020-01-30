@@ -76,7 +76,7 @@ Publication Venue 2020
   <img src="images/authors/author_02.jpg" alt="Avatar" style="width:100%">
   <div class="container">
     <a href="https://mega002.github.io/">
-    <h4><b>Mor Geva</b></h4>  
+    <h4><b>Mor <br>Geva</b></h4>  
     </a>
   </div>
 </div>
