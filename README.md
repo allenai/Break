@@ -4,7 +4,7 @@
 Break is a human annotated dataset of natural language questions and their Question Decomposition Meaning Representations (QDMRs). Break consists of 83,978 examples sampled from 10 question answering datasets over text, images and databases.
 This repository contains the Break dataset along with information on the exact data format.
 
-For more details check out our TACL paper "Break It Down: A Question Understanding Benchmark", and website.
+For more details check out our TACL paper ["Break It Down: A Question Understanding Benchmark"](https://arxiv.org/), and [website](https://allenai.github.io/Break/).
 
 
 
@@ -13,6 +13,7 @@ For more details check out our TACL paper "Break It Down: A Question Understandi
 	* **Paper**: [Break It Down: A Question Understanding Benchmark
 ](https://arxiv.org/)
 	* **Leaderboard**:  [Coming Soon](https://leaderboard.allenai.org/)
+	* **Website**: [https://allenai.github.io/Break/](https://allenai.github.io/Break/)
 
 
 
