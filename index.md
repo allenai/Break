@@ -65,43 +65,43 @@ Publication Venue 2020
 
 <div>
 <div class="card">
-  <img src="images/icon.png" alt="Avatar" style="width:100%">
+  <img src="images/authors/author_01.jpg" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>John Doe</b></h4>  
   </div>
 </div>
 <div class="card">
-  <img src="images/icon.png" alt="Avatar" style="width:100%">
+  <img src="images/authors/author_02.jpg" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>John Doe</b></h4> 
   </div>
 </div>
 <div class="card">
-  <img src="images/icon.png" alt="Avatar" style="width:100%">
+  <img src="images/authors/author_03.jpg" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>John Doe</b></h4> 
   </div>
 </div>
 <div class="card">
-  <img src="images/icon.png" alt="Avatar" style="width:100%">
+  <img src="images/authors/author_04.jpg" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>John Doe</b></h4> 
   </div>
 </div>
 <div class="card">
-  <img src="images/icon.png" alt="Avatar" style="width:100%">
+  <img src="images/authors/author_05.jpg" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>John Doe</b></h4> 
   </div>
 </div>
 <div class="card">
-  <img src="images/icon.png" alt="Avatar" style="width:100%">
+  <img src="images/authors/author_06.jpg" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>John Doe</b></h4> 
   </div>
 </div>
 <div class="card">
-  <img src="images/icon.png" alt="Avatar" style="width:100%">
+  <img src="images/authors/author_07.jpg" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>John Doe</b></h4> 
   </div>
