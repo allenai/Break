@@ -7,10 +7,13 @@ This repository contains the Break dataset along with information on the exact d
 For more details check out our TACL paper "Break It Down: A Question Understanding Benchmark", and website.
 
 
+
 * **Key Links**
-	* **Break Dataset**: [link name/](acutal link)
-	* **Leaderboard**:  [https://leaderboard.allenai.org/](Coming soon)
-	* **Paper**: [Break It Down: A Question Understanding Benchmark/](Coming soon)
+	* **QASC Dataset**: [https://github.com/allenai/Break/tree/master/break_dataset](https://github.com/allenai/Break/tree/master/break_dataset)
+	* **Paper**: [Break It Down: A Question Understanding Benchmark
+](https://arxiv.org/)
+	* **Leaderboard**:  [Coming Soon](https://leaderboard.allenai.org/)
+
 
 
 ### Changelog
