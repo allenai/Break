@@ -49,11 +49,11 @@ Contains questions over modality 3 from <a href="somelink">**Dataset1**</a>, <a 
 Publication Venue 2020  
 
 ```markdown
-@inproceedings{some2020paper,
-  title={Paper Title},
-  author={FirstName1, LastName1 and FirstName2, LastName2 and FirstName3, LastName3 and FirstName4, LastName4 and FirstName5, LastName5 and FirstName6, LastName6 and FirstName7, LastName7},
-  booktitle={The Journal},
-  year={2020}
+@article{Wolfson2020Break,
+  title={Break It Down: A Question Understanding Benchmark},
+  author={Wolfson, Tomer and Geva, Mor and Gupta, Ankit and Gardner, Matt and Goldberg, Yoav and Deutch, Daniel and Berant, Jonathan},
+  journal={Transactions of the Association for Computational Linguistics},
+  year={2020},
 }
 ```
 
