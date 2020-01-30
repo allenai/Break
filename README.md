@@ -16,14 +16,14 @@ For more details check out our TACL paper ["Break It Down: A Question Understand
 	* **Website**: [https://allenai.github.io/Break/](https://allenai.github.io/Break/)
 
 
+### Changelog
 
-* **Question Answering Datasets**
+- `1/14/2020` The full dataset, models and entire codebase will be officially released following final paper acceptance.
+
+### Question Answering Datasets
 
 The Break dataset contains questions from the following 10 datasets: 
 [Academic](https://), [ATIS](https://), [GeoQuery](https://), [Spider](https://), [CLEVR-humans](https://), [NLVR2](https://), [Academic](https://), [CommunityQA](https://), [ComplexWebQuestions](https://), [DROP](https://) and [HotpotQA](https://).
 
-### Changelog
-
-- `1/14/2020` The full dataset, models and entire codebase will be officially released following final paper acceptance.
 
 
