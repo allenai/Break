@@ -55,10 +55,10 @@ QDMR annotations by original dataset:
 | [GeoQuery](https://github.com/jkkummerfeld/text2sql-data)     | 877                   |   547               |    50              | 280                 |
 | [Spider](https://yale-lily.github.io/spider)     | 7,982                   |   6,955               |    502              |   525               |
 | [CLEVR-humans](https://cs.stanford.edu/people/jcjohns/clevr/)     | 13,935                   |      9,453            |    2,215              |     2,267             |
-| [NLVR2](http://lil.nlp.cornell.edu/nlvr/)     | 60,150                   |                  |                  |                  |
-| [ComQA](http://qa.mpi-inf.mpg.de/comqa/)     | 60,150                   |                  |                  |                  |
-| [ComplexWebQuestions](https://www.tau-nlp.org/compwebq)     | 60,150                   |                  |                  |                  |
-| [DROP](https://allennlp.org/drop)     | 60,150                   |                  |                  |                  |
+| [NLVR2](http://lil.nlp.cornell.edu/nlvr/)     | 13,517                   |     9,915             |   1,805               |    1,797              |
+| [ComQA](http://qa.mpi-inf.mpg.de/comqa/)     | 5,520                   |    3,546              |    988              |     986             |
+| [ComplexWebQuestions](https://www.tau-nlp.org/compwebq)     | 2,988                   |     1,985             |     475             |       528           |
+| [DROP](https://allennlp.org/drop)     | 10,230                  |    7,683              |   1,268               |     1,279             |
 
 
 QDMR *High-level* annotations by original dataset:  
