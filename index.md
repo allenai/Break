@@ -34,12 +34,9 @@ Contains questions over modality 3 from <a href="somelink">**Dataset1**</a>, <a 
 
 ## **Paper**
 
-
-<a href="https://arxiv.org/">
-  <b>Break It Down: A Question Understanding Benchmark</b>
-</a>
+[**Break It Down: A Question Understanding Benchmark**](https://arxiv.org/)
 Tomer Wolfson, Mor Geva, Ankit Gupta, Matt Gardner, Yoav Goldberg, Daniel Deutch and Jonathan Berant  
-<i>Transactions of the Association for Computational Linguistics (TACL), 2020</i> 
+*Transactions of the Association for Computational Linguistics (TACL), 2020*
 
 ```markdown
 @article{Wolfson2020Break,
