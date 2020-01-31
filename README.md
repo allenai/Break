@@ -52,9 +52,9 @@ QDMR annotations by original dataset:
 |-----------|-------------------------|-------------------------|-------------------------|-------------------------|
 | [Academic](https://github.com/jkkummerfeld/text2sql-data)     | 195                   |  195                |       0           |   0               |
 | [ATIS](https://github.com/jkkummerfeld/text2sql-data)     | 4,906                   |  4,042                |   457               |  407                |
-| [GeoQuery](https://github.com/jkkummerfeld/text2sql-data)     | 60,150                   |                  |                  |                  |
-| [Spider](https://yale-lily.github.io/spider)     | 60,150                   |                  |                  |                  |
-| [CLEVR-humans](https://cs.stanford.edu/people/jcjohns/clevr/)     | 60,150                   |                  |                  |                  |
+| [GeoQuery](https://github.com/jkkummerfeld/text2sql-data)     | 877                   |   547               |    50              | 280                 |
+| [Spider](https://yale-lily.github.io/spider)     | 7,982                   |   6,955               |    502              |   525               |
+| [CLEVR-humans](https://cs.stanford.edu/people/jcjohns/clevr/)     | 13,935                   |      9,453            |    2,215              |     2,267             |
 | [NLVR2](http://lil.nlp.cornell.edu/nlvr/)     | 60,150                   |                  |                  |                  |
 | [ComQA](http://qa.mpi-inf.mpg.de/comqa/)     | 60,150                   |                  |                  |                  |
 | [ComplexWebQuestions](https://www.tau-nlp.org/compwebq)     | 60,150                   |                  |                  |                  |
