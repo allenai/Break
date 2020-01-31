@@ -43,10 +43,30 @@ The code and models presented in our [paper](https://arxiv.org/), see our reposi
 | QDMR High-level | 23,828                   |                  |                  |                  |
 | logical-forms (QDMR)    | ???                   |                  |                  |                  |
 
+
 QDMR annotations by original dataset:  
+
+| Data | Examples | Train | Dev | Test |
+|-----------|-------------------------|-------------------------|-------------------------|-------------------------|
+| Academic     | 60,150                   |                  |                  |                  |
+| ATIS     | 60,150                   |                  |                  |                  |
+| GeoQuery     | 60,150                   |                  |                  |                  |
+| Spider     | 60,150                   |                  |                  |                  |
+| CLEVR-humans     | 60,150                   |                  |                  |                  |
+| NLVR2     | 60,150                   |                  |                  |                  |
+| ComQA     | 60,150                   |                  |                  |                  |
+| ComplexWebQuestions     | 60,150                   |                  |                  |                  |
+| DROP     | 60,150                   |                  |                  |                  |
+
 
 QDMR High-level annotations by original dataset:  
 
+
+| Data | Examples | Train | Dev | Test |
+|-----------|-------------------------|-------------------------|-------------------------|-------------------------|
+| ComplexWebQuestions     | 60,150                   |                  |                  |                  |
+| DROP     | 60,150                   |                  |                  |                  |
+| HotpotQA     | 60,150                   |                  |                  |                  |
 
 ## Reference
 
