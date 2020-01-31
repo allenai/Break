@@ -48,15 +48,15 @@ QDMR annotations by original dataset:
 
 | Data | Examples | Train | Dev | Test |
 |-----------|-------------------------|-------------------------|-------------------------|-------------------------|
-| Academic     | 60,150                   |                  |                  |                  |
-| ATIS     | 60,150                   |                  |                  |                  |
-| GeoQuery     | 60,150                   |                  |                  |                  |
-| Spider     | 60,150                   |                  |                  |                  |
-| CLEVR-humans     | 60,150                   |                  |                  |                  |
-| NLVR2     | 60,150                   |                  |                  |                  |
-| ComQA     | 60,150                   |                  |                  |                  |
-| ComplexWebQuestions     | 60,150                   |                  |                  |                  |
-| DROP     | 60,150                   |                  |                  |                  |
+| [Academic](https://github.com/jkkummerfeld/text2sql-data)     | 60,150                   |                  |                  |                  |
+| [ATIS](https://github.com/jkkummerfeld/text2sql-data)     | 60,150                   |                  |                  |                  |
+| [GeoQuery](https://github.com/jkkummerfeld/text2sql-data)     | 60,150                   |                  |                  |                  |
+| [Spider](https://yale-lily.github.io/spider)     | 60,150                   |                  |                  |                  |
+| [CLEVR-humans](https://cs.stanford.edu/people/jcjohns/clevr/)     | 60,150                   |                  |                  |                  |
+| [NLVR2](http://lil.nlp.cornell.edu/nlvr/)     | 60,150                   |                  |                  |                  |
+| [ComQA](http://qa.mpi-inf.mpg.de/comqa/)     | 60,150                   |                  |                  |                  |
+| [ComplexWebQuestions](https://www.tau-nlp.org/compwebq)     | 60,150                   |                  |                  |                  |
+| [DROP](https://allennlp.org/drop)     | 60,150                   |                  |                  |                  |
 
 
 QDMR High-level annotations by original dataset:  
@@ -64,9 +64,9 @@ QDMR High-level annotations by original dataset:
 
 | Data | Examples | Train | Dev | Test |
 |-----------|-------------------------|-------------------------|-------------------------|-------------------------|
-| ComplexWebQuestions     | 60,150                   |                  |                  |                  |
-| DROP     | 60,150                   |                  |                  |                  |
-| HotpotQA     | 60,150                   |                  |                  |                  |
+| [ComplexWebQuestions](https://www.tau-nlp.org/compwebq)     | 60,150                   |                  |                  |                  |
+| [DROP](https://allennlp.org/drop)     | 60,150                   |                  |                  |                  |
+| [HotpotQA](https://hotpotqa.github.io/)     | 60,150                   |                  |                  |                  |
 
 ## Reference
 
