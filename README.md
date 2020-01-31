@@ -39,7 +39,7 @@ The code and models presented in our [paper](https://arxiv.org/), see our reposi
 
 | Data | Examples | Train | Dev | Test |
 |-----------|-------------------------|-------------------------|-------------------------|-------------------------|
-| QDMR     | 60,150                   |       44,321 (*73.7%*)          |      7,760 (12.9%)           |      8,069 (13.4%)           |
+| QDMR     | 60,150                   |       44,321 (73.7%)          |      7,760 (12.9%)           |      8,069 (13.4%)           |
 | QDMR High-level | 23,828                   |     17,503 (73.5%)             |      3,130 (13.1%)           |        3,195 (13.4%)         |
 | logical-forms (QDMR)    | ???                   |                  |                  |                  |
 
@@ -48,7 +48,7 @@ QDMR annotations by original dataset:
 
 | Data | Examples | Train | Dev | Test |
 |-----------|-------------------------|-------------------------|-------------------------|-------------------------|
-| [Academic](https://github.com/jkkummerfeld/text2sql-data)     | 60,150                   |                  |                  |                  |
+| [Academic](https://github.com/jkkummerfeld/text2sql-data)     | 195                   |  195                |       0           |   0               |
 | [ATIS](https://github.com/jkkummerfeld/text2sql-data)     | 60,150                   |                  |                  |                  |
 | [GeoQuery](https://github.com/jkkummerfeld/text2sql-data)     | 60,150                   |                  |                  |                  |
 | [Spider](https://yale-lily.github.io/spider)     | 60,150                   |                  |                  |                  |
