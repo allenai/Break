@@ -40,7 +40,7 @@ The code and models presented in our [paper](https://arxiv.org/), see our reposi
 | Data | Examples | Train | Dev | Test |
 |-----------|-------------------------|-------------------------|-------------------------|-------------------------|
 | QDMR     | 60,150                   |                  |                  |                  |
-| QDMR High-level | 23,828                   |                  |                  |                  |
+| QDMR High-level | 23,828                   |     17,503 (73.5%)             |      3,130 (13.1%)           |        3,195 (13.4%)         |
 | logical-forms (QDMR)    | ???                   |                  |                  |                  |
 
 
