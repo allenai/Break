@@ -64,7 +64,7 @@ QDMR High-level annotations by original dataset:
 
 | Data | Examples | Train | Dev | Test |
 |-----------|-------------------------|-------------------------|-------------------------|-------------------------|
-| [ComplexWebQuestions](https://www.tau-nlp.org/compwebq)     | 60,150                   |                  |                  |                  |
+| [ComplexWebQuestions](https://www.tau-nlp.org/compwebq)     | 2,991                   |     1,988             |     475             |        528          |
 | [DROP](https://allennlp.org/drop)     | 60,150                   |                  |                  |                  |
 | [HotpotQA](https://hotpotqa.github.io/)     | 60,150                   |                  |                  |                  |
 
