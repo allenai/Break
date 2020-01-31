@@ -19,7 +19,7 @@ The code and models presented in our [paper](https://arxiv.org/), see our reposi
 
 
 ### Changelog
-
+- `1/31/2020` The entire codebase and official leaderboard will be released soon.
 - `1/31/2020` The full dataset, has been added.
 
 ## Question Answering Datasets
