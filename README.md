@@ -51,7 +51,7 @@ QDMR annotations by original dataset:
 | Data | Examples | Train | Dev | Test |
 |-----------|-------------------------|-------------------------|-------------------------|-------------------------|
 | [Academic](https://github.com/jkkummerfeld/text2sql-data)     | 195                   |  195                |       0           |   0               |
-| [ATIS](https://github.com/jkkummerfeld/text2sql-data)     | 60,150                   |                  |                  |                  |
+| [ATIS](https://github.com/jkkummerfeld/text2sql-data)     | 4,906                   |  4,042                |   457               |  407                |
 | [GeoQuery](https://github.com/jkkummerfeld/text2sql-data)     | 60,150                   |                  |                  |                  |
 | [Spider](https://yale-lily.github.io/spider)     | 60,150                   |                  |                  |                  |
 | [CLEVR-humans](https://cs.stanford.edu/people/jcjohns/clevr/)     | 60,150                   |                  |                  |                  |
