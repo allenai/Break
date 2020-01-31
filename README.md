@@ -5,7 +5,7 @@ Break is a human annotated dataset of natural language questions and their Quest
 This repository contains the Break dataset along with information on the exact data format.
 
 For more details check out our TACL paper ["Break It Down: A Question Understanding Benchmark"](https://arxiv.org/), and [website](https://allenai.github.io/Break/).  
-For the code and models presented in our [paper](https://arxiv.org/), see our repository at: [https://github.com/tomerwolgithub/Break](https://github.com/tomerwolgithub/Break).
+The code and models presented in our [paper](https://arxiv.org/), see our repository at: [https://github.com/tomerwolgithub/Break](https://github.com/tomerwolgithub/Break).
 
 
 
