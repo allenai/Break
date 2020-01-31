@@ -35,6 +35,15 @@ The code and models presented in our [paper](https://arxiv.org/), see our reposi
 
 ### Data Format
 
+### Data Statistics
+
+| Data | Examples |
+|-----------|-------------------------|
+| QDMR     | 60,150                   |
+| QDMR High-level | 23,828                  |
+| logical-forms (QDMR)    | ???                    |
+
+
 ## Reference
 
 ```
