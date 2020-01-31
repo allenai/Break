@@ -39,8 +39,6 @@ The code and models presented in our [paper](https://arxiv.org/), see our reposi
 * ``logical-forms``:
 
 
-* **Key Links**
-
 ### Data Format
 
 ### Data Statistics
