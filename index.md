@@ -1,13 +1,3 @@
-<p float="left">
-  <img src="images/hammer_and_anvil-1.png" height="100">
-  <a href="https://allenai.org/">
-    <img src="images/AI2_Logo_3color.png" height="98">
-  </a>
-  <a href="https://www.tau-nlp.org/">
-    <img src="images/tau_nlp-1.png" height="100">
-  </a>
-</p>
-
 ## **A Question Understanding Benchmark**
 
 Released February 2020.  
@@ -144,3 +134,14 @@ Rank | Submission | Created | EM Dev. | EM Test
 
 ## **Download**
 Click here
+
+
+<p float="left">
+  <img src="images/hammer_and_anvil-1.png" height="100">
+  <a href="https://allenai.org/">
+    <img src="images/AI2_Logo_3color.png" height="98">
+  </a>
+  <a href="https://www.tau-nlp.org/">
+    <img src="images/tau_nlp-1.png" height="100">
+  </a>
+</p>
