@@ -38,7 +38,7 @@ The code and models presented in our [paper](https://arxiv.org/), see our reposi
 ### Data Statistics
 
 | Data | Examples | Train | Dev | Test |
-|-----------|-------------------------|-------------------------|-------------------------|
+|-----------|-------------------------|-------------------------|-------------------------|-------------------------|
 | QDMR     | 60,150                   |                  |                  |                  |
 | QDMR High-level | 23,828                   |                  |                  |                  |
 | logical-forms (QDMR)    | ???                   |                  |                  |                  |
