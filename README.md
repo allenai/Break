@@ -36,7 +36,7 @@ The code and models presented in our [paper](https://arxiv.org/), see our reposi
 
 * **``QDMR``**:
 * **``QDMR high-level``**:
-* **``logical-forms``**:
+* [**``logical-forms``**](https://github.com/allenai/Break/tree/master/break_dataset/logical-forms):
 
 
 ### Data Format
