@@ -1,10 +1,10 @@
 ## **A Question Understanding Benchmark**
 
-Break is a question understanding dataset of natural language questions annotated with their Question Decomposition Meaning Representations (QDMRs). It features 83,978 human composed natural questions over text, images and datbases sampled from 10 leading question-answering benchmark. Each example is annotated with strong supervision in the form of its question decompositions (QDMR).
+Break is a question understanding dataset of natural language questions annotated with their Question Decomposition Meaning Representations (QDMRs). It features 83,978 human composed natural questions over text, images and datbases sampled from 10 leading question-answering benchmarks. Each example is annotated with strong supervision in the form of its question decompositions (QDMR).
 Break was collected by a team of NLP [researchers](#authors) at [Tel Aviv University](https://www.tau-nlp.org/) and [Allen Institute for AI](https://allenai.org/).
 
 
-For more details about HotpotQA, please refer to our EMNLP 2018 paper:
+For more details about Break, you may refer to our [TACL 2020 paper](#paper).
 
 [Link to blogpost](/blogpost.md).
 
