@@ -4,7 +4,7 @@ Break is a question understanding dataset, aimed at probing models to reason ove
 Break was created by a team of [NLP researchers](#authors) at [Tel Aviv University](https://www.tau-nlp.org/) and [Allen Institute for AI](https://allenai.org/).
 
 
-For more details about Break, please refer to our [TACL 2020 paper](#paper).
+For more details on Break, please refer to our [TACL 2020 paper](#paper).
 
 
 ## **Question-Answering Datasets**
