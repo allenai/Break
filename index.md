@@ -128,8 +128,12 @@ Rank | Submission | Created | EM Dev. | EM Test
 - To view question decomposition examples [explore Break](/explore.md).
 
 <p float="left">
-  <img src="images/qdmr01.png" height="170">
-  <img src="images/qdmr02.png" height="170">
+  <a href="images/qdmr01.png"> 
+    <img src="images/qdmr01.png" height="170">
+  </a>
+  <a href="images/qdmr02.png">
+    <img src="images/qdmr02.png" height="170">
+  </a>
 </p>
 
 <div id="dowload"></div>
