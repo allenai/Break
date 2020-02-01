@@ -199,17 +199,15 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (c) How many of their wins for the season were not against teams with winning records?
+    (c) If there are an equal number of dogs in each image.
   </p>
 </div>
 
 ```
- 1. return the season  
- 2. return wins of #1  
- 3. return #2 that were against teams with winning records    
- 4. return number of #2  
- 5. return number of #3  
- 6. return the difference of #4 and #5  
+ 1. return images  
+ 2. return dogs in  #1  
+ 3. return number of #2 for each #1  
+ 4. return If #3 are equal
 ```
 
 ### **ComQA**
@@ -217,33 +215,29 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (a) How many of their wins for the season were not against teams with winning records?
+    (a) Who was the first president to serve 3 terms?
   </p>
 </div>
 
 ```
- 1. return the season  
- 2. return wins of #1  
- 3. return #2 that were against teams with winning records    
- 4. return number of #2  
- 5. return number of #3  
- 6. return the difference of #4 and #5  
+ 1. return presidents  
+ 2. return terms of #1  
+ 3. return number of #2 for each #1    
+ 4. return #1 where #3 is equal to 3   
+ 5. return first of #4
 ```
 
 
 <div>
   <p class="note">
-    (a) How many of their wins for the season were not against teams with winning records?
+    (b) Birthdates of george pattons kids?
   </p>
 </div>
 
 ```
- 1. return the season  
- 2. return wins of #1  
- 3. return #2 that were against teams with winning records    
- 4. return number of #2  
- 5. return number of #3  
- 6. return the difference of #4 and #5  
+ 1. return george patton   
+ 2. return kids of #1   
+ 3. return birthdates of #2
 ```
 
 ### **ComplexWebQuestions**
