@@ -50,4 +50,4 @@ We hope that the release of Break, and its associated challenges, will help spur
 Please visit the [Break website]() to view the leaderboard and learn more.
 
 
-[1] Francis Jeffry Pelletier. 1994. The principle of semantic compositionality. Topoi, 13(1):11–24.
+[1] Francis Jeffry Pelletier. 1994. "The principle of semantic compositionality." *Topoi, 13(1):11–24*.
