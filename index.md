@@ -128,14 +128,17 @@ Rank | Submission | Created | EM Dev. | EM Test
 - To view question decomposition examples [explore Break](/explore.md).
 
 <p float="left">
-  <a href="images/qdmr01.png"> 
+  <a href="https://allenai.github.io/Break/images/qdmr01.png"> 
     <img src="images/qdmr01.png" height="170">
   </a>
-  <a href="images/qdmr02.png">
+  <a href="https://allenai.github.io/Break/images/qdmr02.png">
     <img src="images/qdmr02.png" height="170">
   </a>
 </p>
 
 <div id="dowload"></div>
 ## **Download**
-Click here
+
+- For the full documentation of the dataset and its format please refer to our [Github repository](https://github.com/allenai/Break).  
+- Click here to [download Break](https://github.com/allenai/Break/raw/master/break_dataset/Break-dataset.zip).
+
