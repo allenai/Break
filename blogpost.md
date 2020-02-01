@@ -14,8 +14,15 @@ We express complex questions via simple questions ("operators") that can be exec
 In contrast to semantic parsing, QDMR is expressed through natural language phrases, facilitating annotation at scale by non-experts. 
 Below we see to examples of questions along with their QDMR representations. Note that the references to previous decomposition steps enable us to represent QDMR as a directed-acyclic-graph.
 For the full description of the QDMR formalism please refer to [our paper]().
-<qdmr01 image>
-<qdmr02 image>
+
+<p float="left">
+  <a href="https://allenai.org/data/data-all.html">
+    <img src="images/qdmr01.png" height="170">
+  </a>
+  <a href="https://allenai.org/">
+    <img src="images/qdmr01.png" height="170">
+  </a>
+</p>
 
 
 The Data
