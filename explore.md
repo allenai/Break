@@ -22,7 +22,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (a) <i>Return me the total citations of papers in the VLDB conference before 2005.</i>
+    <i>Return me the total citations of papers in the VLDB conference before 2005.</i>
   </p>
 </div>
 
@@ -40,7 +40,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (a) <i>What flight do you have from atlanta to dallas on august twenty seventh in the morning</i>
+    <i>What flight do you have from atlanta to dallas on august twenty seventh in the morning</i>
   </p>
 </div>
 
@@ -52,38 +52,33 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
  5. return #4 in the morning
 ```
 
-### GeoQuery
+### **GeoQuery**
 
 
 <div>
   <p class="note">
-    (a) <i>How many of their wins for the season were not against teams with winning records?</i>
+    (a) <i>Which state has the least population density</i>
   </p>
 </div>
 
 ```
- 1. return the season  
- 2. return wins of #1  
- 3. return #2 that were against teams with winning records    
- 4. return number of #2  
- 5. return number of #3  
- 6. return the difference of #4 and #5  
+ 1. return states  
+ 2. return population densities of #1  
+ 3. return #1 where #2 is the lowest
 ```
 
 
 <div>
   <p class="note">
-    (a) <i>How many of their wins for the season were not against teams with winning records?</i>
+    (b) <i>What states border states that border states that border florida</i>
   </p>
 </div>
 
 ```
- 1. return the season  
- 2. return wins of #1  
- 3. return #2 that were against teams with winning records    
- 4. return number of #2  
- 5. return number of #3  
- 6. return the difference of #4 and #5  
+ 1. return florida  
+ 2. return border states of #1   
+ 3. return border states of #2   
+ 4. return border states of #3 
 ```
 
 ### Spider 
