@@ -9,13 +9,13 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
   * [GeoQuery](#geoquery)
   * [Spider](#spider)
 * **Visual Question Answering**: 
-  * [CLEVR-humans](https://cs.stanford.edu/people/jcjohns/clevr/)
-  * [NLVR2](http://lil.nlp.cornell.edu/nlvr/)
+  * [CLEVR-humans](#spider)
+  * [NLVR2](#spider)
 * **Reading Comprehension (and KB-QA)**: 
-  * [ComQA](http://qa.mpi-inf.mpg.de/comqa/)
-  * [ComplexWebQuestions](https://www.tau-nlp.org/compwebq)
-  * [DROP](https://allennlp.org/drop)
-  * [HotpotQA](https://hotpotqa.github.io/)  
+  * [ComQA](#comqa)
+  * [ComplexWebQuestions](#complexwebquestions)
+  * [DROP](#drop)
+  * [HotpotQA](#hotpotqa)  
 
 ### Academic
 
