@@ -14,6 +14,7 @@ We propose *question understanding* as a standalone language understanding task.
 ### Representing the Meaning of Questions
 We introduce a formalism for representing the meaning of questions, and is agnostic to the information source. Our formalism, Question Decomposition Meaning Representation (QDMR), is inspired by database query languages and by semantic parsing, in which questions are given full meaning representations.  
 We express complex questions via simple questions ("operators") that can be executed in sequence to answer the original question. Each QDMR operator either selects a set of entities, retrieves information about their attributes, or aggregates information over entities. While this has been formalized in knowledge-base (KB) query languages, the same intuition can be applied to other modalities, such as images and text. QDMR abstracts away the context needed to answer the question, allowing in principle to query multiple sources for the same question.  
+
 In contrast to semantic parsing, QDMR is expressed through natural language phrases, facilitating annotation at scale by non-experts. 
 Below we see to examples of questions along with their QDMR representations. Note that the references to previous decomposition steps enable us to represent QDMR as a directed-acyclic-graph.
 For the full description of the QDMR formalism please refer to [our paper]().
@@ -48,6 +49,7 @@ Our paper ["Break It Down: A Question Understanding Benchmark"](), which has bee
 
 Break is aimed at enabling systems to effectively parse natural questions into their respective QDMR representations.  
 We hope that the release of Break, and its associated challenges, will help spur the development of question understanding models. We further encourage the NLP community to also treat Break as a resource for building better question answering systems.  
+
 Our research has shown that multi-hop QA models utilizing Break decompositions greatly outperform a string baseline which does not. Additionally, we provide [neural QDMR parsing models](https://allenai.github.io/Break/#leaderboard), trained on Break, that beat a rule-based baseline that employs dependency parsing and coreference resolution.  
 Please visit the [Break website]() to view the leaderboard and learn more.
 
