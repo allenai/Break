@@ -127,7 +127,7 @@ Rank | Submission | Created | EM Dev. | EM Test
 - 83,978 question decompositions  
 - 59,823 QDMR logical forms  
 - Question from 10 question-answering datasets  
-- Question over 3 modalities: text, images and database  
+- Questions from 3 distinct modalities - text, images and database  
 
 To learn more abour Break [read our blogpost](/blogpost.md).  
 To view question decomposition examples [explore Break](/explore.md).
