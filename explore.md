@@ -29,7 +29,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 </div>
 <div>
   <p class="note">
-      <i>"A totally other question"</i>
+      <i>"A totally other question"</i><br> "more text"
   </p>
 </div>
 
