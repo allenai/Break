@@ -3,6 +3,7 @@
 - *Check out [our blogpost](https://medium.com/ai2-blog) at the official [AI2 blog!](https://medium.com/ai2-blog)*  
 
 Increasing work has been devoted to models that can reason and integrate information from multiple parts of an input. This includes reasoning over images, paragraphs, documents, tables and more. *Question answering* (QA) is commonly used to probe these models ability to reason. In most QA tasks, a complex natural language question is posed, and is to be answered given a particular context (text, image, KB). While questions often share structure regardless of the particular task, understanding the language of complex questions has thus far been dealt within each task in isolation (reading comprehension, visual question answering, semantic parsing). For example, all of the questions in the figure below require operations such as fact chaining and counting.  
+
 We propose *question understanding* as a standalone language understanding task. In particular, we focus on the decomposition of complex natural questions. This ability, to compose and decompose questions, lies at the heart of human language [1] and allows us to tackle previously unseen problems. Thus, better question understanding models should improve performance and generalization in tasks that require multi-step reasoning or that do not have access to substantial amounts of data. 
 
 
