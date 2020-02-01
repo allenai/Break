@@ -207,7 +207,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
  1. return images  
  2. return dogs in  #1  
  3. return number of #2 for each #1  
- 4. return If #3 are equal
+ 4. return if #3 are equal
 ```
 
 ### **ComQA**
@@ -346,5 +346,5 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 ```
  1. return the actor born in 1926 that stars in the Love Machines  
  2. return the nightclub performances that #1 was known for  
- 3. return in  what  city was  #2
+ 3. return in what city was  #2
 ```
