@@ -346,5 +346,5 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 ```
  1. return the actor born in 1926 that stars in the Love Machines  
  2. return the nightclub performances that #1 was known for  
- 3. return in what city was  #2
+ 3. return in what city was #2
 ```
