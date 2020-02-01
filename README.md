@@ -56,7 +56,7 @@ The code and models presented in our [paper](https://arxiv.org/), see our reposi
 		* **``question_id``**: Same as before.
 		* **``question_text``**: Same as before.
 		* **``decomposition``**: Same as before.
-		* **``program``**: List of QDMR operators and arguments that the original QDMR was mapped to. E.g., fir the QDMR, ``return citations ;return #1 of Making database systems usable ;return number of  #2``, its program would be, ``[ SELECT['citations'], FILTER['#1', 'of Making database systems usable'], AGGREGATE['count', '#2'] ]``.
+		* **``program``**: List of QDMR operators and arguments that the original QDMR was mapped to. E.g., fir the QDMR, ``return citations ;return #1 of Making database systems usable ;return number of  #2``, its program is, ``[ SELECT['citations'], FILTER['#1', 'of Making database systems usable'], AGGREGATE['count', '#2'] ]``.
 		* **``operators``**: Same as before.
 		* **``split``**: Same as before.
 
