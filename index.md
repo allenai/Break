@@ -123,37 +123,17 @@ Rank | Submission | Created | EM Dev. | EM Test
 
 <div id="explore"></div>
 ## **Explore**
-[Link to dataset explorer](/explore.md).
+- 83,978 question decompositions
+- 59,823 QDMR logical forms
+- Question from 10 question-answering datasets
+- Question over 3 modalities: text, images and database
 
+To learn more abour Break [read our blogpost](/blogpost.md).  
+To view question decomposition examples [explore Break](/explore.md).
 
-[Link to blogpost](/blogpost.md).
-
-- Merit number one
-- Merit number two
-
-<div>
-  <p class="note">
-     <i>"Some question"</i>
-  </p>
-</div>
-<div>
-  <p class="note">
-    <i>"A totally different and complex question"</i>
-  </p>
-</div>
-<div>
-  <p class="note">
-      <i>"A totally other question"</i>
-  </p>
-</div>
-
-
-<img src="images/qdmr01.png" height="150">
+<img src="images/qdmr01.png" height="170">
 <br>
-<img src="images/qdmr02.png" height="150">
-<br>
-<img src="images/break_question_modalities.png" height="150">
-
+<img src="images/qdmr02.png" height="170">
 
 
 <div id="dowload"></div>
