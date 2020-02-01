@@ -4,10 +4,10 @@ Below you will find examples of questions and their QDMRs found in Break.
 Note that *high-level* QDMRs are less coarse in their decomposition, as they are geared towards reading comprehension tasks. For more details on *high-level* QDMRs please refer to [our paper](https://allenai.github.io/Break/#paper).
 
 * **Semantic Parsing**: 
-  * [Academic](https://github.com/jkkummerfeld/text2sql-data)
-  * [ATIS](https://github.com/jkkummerfeld/text2sql-data)
-  * [GeoQuery](https://github.com/jkkummerfeld/text2sql-data)
-  * [Spider](https://yale-lily.github.io/spider)
+  * [Academic](#academic)
+  * [ATIS](#atis)
+  * [GeoQuery](#geoquery)
+  * [Spider](#spider)
 * **Visual Question Answering**: 
   * [CLEVR-humans](https://cs.stanford.edu/people/jcjohns/clevr/)
   * [NLVR2](http://lil.nlp.cornell.edu/nlvr/)
@@ -16,6 +16,26 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
   * [ComplexWebQuestions](https://www.tau-nlp.org/compwebq)
   * [DROP](https://allennlp.org/drop)
   * [HotpotQA](https://hotpotqa.github.io/)  
+
+### Academic
+
+### ATIS
+
+### GeoQuery
+
+### Spider 
+
+## CLEVR-humans
+
+### NLVR2
+
+### ComQA
+
+### ComplexWebQuestions
+
+### DROP
+
+### HotpotQA
 
 <div>
   <p class="note">
