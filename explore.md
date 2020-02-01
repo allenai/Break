@@ -1,5 +1,8 @@
 ## Explore Break
 
+Below you will find examples of questions and their QDMRs found in Break.   
+Note that *high-level* QDMRs are less coarse in their decomposition, as they are geared towards Reading Comprehension tasks. For more details on *high-level* QDMRs please refer to [our paper](https://allenai.github.io/Break/#paper).
+
 * **Semantic Parsing**: 
   * [Academic](https://github.com/jkkummerfeld/text2sql-data)
   * [ATIS](https://github.com/jkkummerfeld/text2sql-data)
