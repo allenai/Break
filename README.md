@@ -42,12 +42,12 @@ The code and models presented in our [paper](https://arxiv.org/), see our reposi
 ### Data Format
 
 * **``QDMR``** & **``QDMR high-level``**
-** ``train.csv``,``dev.csv``,``test.csv``
-*** ``question_id``
-*** ``question_text``
-*** ``decomposition``
-*** ``operators``
-*** ``split``
+* ``train.csv``,``dev.csv``,``test.csv``
+* ``question_id``
+* ``question_text``
+* ``decomposition``
+* ``operators``
+* ``split``
 
 ### Data Statistics
 
