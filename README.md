@@ -43,17 +43,17 @@ The code and models presented in our [paper](https://arxiv.org/), see our reposi
 
 * **``QDMR``** & **``QDMR high-level``**:
 	* ``train.csv``,``dev.csv``,``test.csv``:
-		* ``question_id``;
+		* ``question_id``:
 		* ``question_text``:
 		* ``decomposition``:
 		* ``operators``:
 		* ``split``:
 	* ``train_lexicon_tokens.json``,``dev_lexicon_tokens.json``,``test_lexicon_tokens.json``:
-		* ``source``:
-		* ``allowed_tokens``:
+		* ``"source"``:
+		* ``"allowed_tokens"``:
 * **``logical-forms``**:
 	* ``train.csv``,``dev.csv``,``test.csv``:
-		* ``question_id``;
+		* ``question_id``:
 		* ``question_text``:
 		* ``decomposition``:
 		* ``program``:
