@@ -6,8 +6,8 @@ Increasing work has been devoted to models that can reason and integrate informa
 We propose *question understanding* as a standalone language understanding task. In particular, we focus on the decomposition of complex natural questions. This ability, to compose and decompose questions, lies at the heart of human language [1] and allows us to tackle previously unseen problems. Thus, better question understanding models should improve performance and generalization in tasks that require multi-step reasoning or that do not have access to substantial amounts of data. 
 
 
-<a href="https://allenai.github.io/Break/images/qdmr01.png"> 
-    <img src="images/qdmr_example.png" height="250">
+<a href="https://allenai.github.io/Break/images/qdmr_motivation.png"> 
+    <img src="images/qdmr_motivation.png" height="250">
  </a>
 
 ### Representing the Meaning of Questions
@@ -36,7 +36,7 @@ QDMR serves as the formalism for creating Break, a question understanding datase
 Break was collected through crowdsourcing, with a user interface that allows us to train crowd workers to produce quality decompositions. Validating the quality of annotated structures reveals 97.4% to be correct.
 Our paper ["Break It Down: A Question Understanding Benchmark"](), which has been accepted for publication in Transactions of the Association for Computational Linguistics, has a full description of the data collection process. To see some more examples from the dataset, please check out [the Break website](). For the full statistics on Break please refer to the [dataset repository]().
 
-<a href="https://allenai.github.io/Break/images/qdmr01.png"> 
+<a href="https://allenai.github.io/Break/images/break_question_modalities.png"> 
     <img src="images/break_question_modalities.png" height="200">
  </a>
 
