@@ -7,7 +7,7 @@ We propose *question understanding* as a standalone language understanding task.
 
 
 <a href="https://allenai.github.io/Break/images/qdmr_motivation.png"> 
-    <img src="images/qdmr_motivation.png" height="250">
+    <img src="images/qdmr_motivation.png" height="400">
  </a>
 
 ### Representing the Meaning of Questions
@@ -19,10 +19,10 @@ For the full description of the QDMR formalism please refer to [our paper]().
 
 <p float="left">
   <a href="https://allenai.github.io/Break/images/qdmr01.png"> 
-    <img src="images/qdmr01.png" height="170">
+    <img src="images/qdmr01.png" height="190">
   </a>
   <a href="https://allenai.github.io/Break/images/qdmr02.png"> 
-    <img src="images/qdmr02.png" height="170">
+    <img src="images/qdmr02.png" height="190">
   </a>
 </p>
 
@@ -37,7 +37,7 @@ Break was collected through crowdsourcing, with a user interface that allows us 
 Our paper ["Break It Down: A Question Understanding Benchmark"](), which has been accepted for publication in Transactions of the Association for Computational Linguistics, has a full description of the data collection process. To see some more examples from the dataset, please check out [the Break website](). For the full statistics on Break please refer to the [dataset repository]().
 
 <a href="https://allenai.github.io/Break/images/break_question_modalities.png"> 
-    <img src="images/break_question_modalities.png" height="200">
+    <img src="images/break_question_modalities.png" height="300">
  </a>
 
 
