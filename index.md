@@ -4,7 +4,7 @@ Break is a question understanding dataset of natural language questions annotate
 Break was collected by a team of NLP [researchers](#authors) at [Tel Aviv University](https://www.tau-nlp.org/) and [Allen Institute for AI](https://allenai.org/).
 
 
-For more details about Break, you may refer to our [TACL 2020 paper](#paper).
+For more details about Break, please refer to our [TACL 2020 paper](#paper).
 
 
 ## **Question-Answering Datasets**
