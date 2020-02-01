@@ -342,15 +342,12 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (c) <i>How many of their wins for the season were not against teams with winning records?</i>
+    (c) <i>The Love Machines stars an actor born in 1926, known for his nightclub performances in what city?</i>
   </p>
 </div>
 
 ```
- 1. return the season  
- 2. return wins of #1  
- 3. return #2 that were against teams with winning records    
- 4. return number of #2  
- 5. return number of #3  
- 6. return the difference of #4 and #5  
+ 1. return the actor born in  1926 that stars in the Love Machines  
+ 2. return the nightclub performances that #1 was known for  
+ 3. return in  what  city was  #2
 ```
