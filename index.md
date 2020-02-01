@@ -147,8 +147,10 @@ Rank | Submission | Created | EM Dev. | EM Test
 - To learn more about Break [read our blogpost](/blogpost.md).  
 - To view question decomposition examples [explore Break](/explore.md).
 
-<img src="images/qdmr01.png" height="170">
-
+<p float="left">
+  <img src="images/qdmr01.png" height="170">
+  <img src="images/qdmr02.png" height="170">
+</p>
 
 <div id="dowload"></div>
 ## **Download**
