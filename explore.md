@@ -22,7 +22,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    <i>Return me the total citations of papers in the VLDB conference before 2005.</i>
+    Return me the total citations of papers in the VLDB conference before 2005.
   </p>
 </div>
 
@@ -40,7 +40,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    <i>What flight do you have from atlanta to dallas on august twenty seventh in the morning</i>
+    What flight do you have from atlanta to dallas on august twenty seventh in the morning
   </p>
 </div>
 
@@ -57,7 +57,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (a) <i>Which state has the least population density</i>
+    (a) Which state has the least population density
   </p>
 </div>
 
@@ -70,7 +70,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (b) <i>What states border states that border states that border florida</i>
+    (b) What states border states that border states that border florida
   </p>
 </div>
 
@@ -85,7 +85,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (a) <i>List the name, born state and age of the heads of departments ordered by age.</i>
+    (a) List the name, born state and age of the heads of departments ordered by age.
   </p>
 </div>
 
@@ -101,7 +101,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (b) <i>Show the positions of the players from the team with name "Ryley Goldner".</i>
+    (b) Show the positions of the players from the team with name "Ryley Goldner".
   </p>
 </div>
 
@@ -115,7 +115,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (c) <i>Find the total number of students enrolled in the colleges that were founded after the year of 1850 for each affiliation type.</i>
+    (c) Find the total number of students enrolled in the colleges that were founded after the year of 1850 for each affiliation type.
   </p>
 </div>
 
@@ -132,7 +132,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (a) <i>How many silver spheres are not the smallestt shape?</i>
+    (a) How many silver spheres are not the smallestt shape?
   </p>
 </div>
 
@@ -148,7 +148,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (b) <i>What one color are four of the objects?</i>
+    (b) What one color are four of the objects?
   </p>
 </div>
 
@@ -163,7 +163,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (a) <i>If there are no more than 5 and no less than 2 televisions in a single image.</i>
+    (a) If there are no more than 5 and no less than 2 televisions in a single image.
   </p>
 </div>
 
@@ -180,7 +180,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (b) <i>If one person is riding a bicycle near two dogs.</i>
+    (b) If one person is riding a bicycle near two dogs.
   </p>
 </div>
 
@@ -199,7 +199,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (c) <i>How many of their wins for the season were not against teams with winning records?</i>
+    (c) How many of their wins for the season were not against teams with winning records?
   </p>
 </div>
 
@@ -217,7 +217,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (a) <i>How many of their wins for the season were not against teams with winning records?</i>
+    (a) How many of their wins for the season were not against teams with winning records?
   </p>
 </div>
 
@@ -233,7 +233,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (a) <i>How many of their wins for the season were not against teams with winning records?</i>
+    (a) How many of their wins for the season were not against teams with winning records?
   </p>
 </div>
 
@@ -251,7 +251,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (a) <i>How many of their wins for the season were not against teams with winning records?</i>
+    (a) How many of their wins for the season were not against teams with winning records?
   </p>
 </div>
 
@@ -267,7 +267,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (a) <i>How many of their wins for the season were not against teams with winning records?</i>
+    (b) How many of their wins for the season were not against teams with winning records?
   </p>
 </div>
 
@@ -284,7 +284,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (a) <i>How many of their wins for the season were not against teams with winning records?</i>
+    (a) How many of their wins for the season were not against teams with winning records?
   </p>
 </div>
 
@@ -299,7 +299,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (b) <i>How many of their wins for the season were not against teams with winning records?</i>
+    (b) How many of their wins for the season were not against teams with winning records?
   </p>
 </div>
 
@@ -316,7 +316,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (a) <i>How old was William DuVall when Black Gives Way to Blue was certified gold by the RIAA?</i>
+    (a) How old was William DuVall when Black Gives Way to Blue was certified gold by the RIAA?
   </p>
 </div>
 
@@ -327,7 +327,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (b) <i>Did the Battle of Peleliu or the Seven Days Battles last longer?</i>
+    (b) Did the Battle of Peleliu or the Seven Days Battles last longer?
   </p>
 </div>
 
@@ -339,12 +339,12 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (c) <i>The Love Machines stars an actor born in 1926, known for his nightclub performances in what city?</i>
+    (c) The Love Machines stars an actor born in 1926, known for his nightclub performances in what city?
   </p>
 </div>
 
 ```
- 1. return the actor born in  1926 that stars in the Love Machines  
+ 1. return the actor born in 1926 that stars in the Love Machines  
  2. return the nightclub performances that #1 was known for  
  3. return in  what  city was  #2
 ```
