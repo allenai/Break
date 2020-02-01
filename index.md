@@ -121,28 +121,8 @@ Rank | Submission | Created | EM Dev. | EM Test
 1 | CopyNet *([Wolfson et al., TACL 2020](https://arxiv.org/))* | `Feb 1, 2020` | `08.10`  | `08.30`
 2 | RuleBased *([Wolfson et al., TACL 2020](https://arxiv.org/))* | `Feb 1, 2020` | `01.00`  | `01.20` 
 
-<div id="explore"></div>
+
 ## **Explore**
-
-<div>
-  <p class="note">
-     <i>83,978 question decompositions</i>
-  </p>
-  <p class="note">
-    <i>59,823 QDMR logical forms</i>
-  </p>
-  <p class="note">
-      <i>Questions from 10 question-answering datasets</i>
-  </p>
-  <p class="note">
-      <i>Questions from 3 distinct modalities - text, images and database</i>
-  </p>
-</div>
-
-- 83,978 question decompositions  
-- 59,823 QDMR logical forms  
-- Questions from 10 question-answering datasets  
-- Questions from 3 distinct modalities - text, images and database  
 
 - To learn more about Break [read our blogpost](/blogpost.md).  
 - To view question decomposition examples [explore Break](/explore.md).
