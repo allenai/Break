@@ -102,15 +102,21 @@ Tomer Wolfson, Mor Geva, Ankit Gupta, Matt Gardner, Yoav Goldberg, Daniel Deutch
 ## **Leaderboard**
 
 ### **Submission**
-Official Leaderboard submission.
+An automatic submission to the [AI2 Leaderboard page](https://leaderboard.allenai.org/) will be avalable soon.
 
 ### **Results**
 
+**QDMR Parsing**
 Rank | Submission | Created | EM Dev. | EM Test
 ------------ | ------------- | ------------- | ------------- | -------------
-1 | First Model | First Model | `00.00`  | `00.00`
-2 | Second Model | Second Model | `00.00`  | `00.00` 
+1 | CopyNet | First Model | `00.00`  | `00.00`
+2 | RuleBased | Second Model | `00.00`  | `00.00` 
 
+**High-level QDMR Parsing**
+Rank | Submission | Created | EM Dev. | EM Test
+------------ | ------------- | ------------- | ------------- | -------------
+1 | CopyNet *(Wolfson and Geva et al. 2020)* | `Feb 1, 2020` | `00.00`  | `00.00`
+2 | RuleBased *(Wolfson and Geva et al. 2020)* | `Feb 1, 2020` | `00.00`  | `00.00` 
 
 <div id="explore"></div>
 ## **Explore**
