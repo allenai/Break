@@ -1,7 +1,7 @@
 ## **A Question Understanding Benchmark**
 
-Break is a dataset of natural language questions annotated with their Question Decomposition Meaning Representations (QDMRs). It features [83,978](https://github.com/allenai/Break) human composed natural questions over text, images and datbases sampled from [10 leading question-answering benchmarks](#question-answering-datasets). Each example is annotated with strong supervision in the form of its question decomposition (QDMR).
-Break was collected by a team of NLP [researchers](#authors) at [Tel Aviv University](https://www.tau-nlp.org/) and [Allen Institute for AI](https://allenai.org/).
+Break is a question understanding dataset, aimed at probing models to reason over complex question. It features [83,978](https://github.com/allenai/Break) natural language questions, annotated with their Question Decomposition Meaning Representations (QDMRs). Break contains human composed questions, sampled from [10 leading question-answering benchmarks](#question-answering-datasets) over text, images and datbases. Each example is annotated with strong supervision in the form of its question decomposition (QDMR).
+Break was created by a team of [NLP researchers](#authors) at [Tel Aviv University](https://www.tau-nlp.org/) and [Allen Institute for AI](https://allenai.org/).
 
 
 For more details about Break, please refer to our [TACL 2020 paper](#paper).
