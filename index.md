@@ -6,26 +6,6 @@ Break was collected by a team of NLP [researchers](#authors) at [Tel Aviv Univer
 
 For more details about Break, you may refer to our [TACL 2020 paper](#paper).
 
-[Link to blogpost](/blogpost.md).
-
-- Merit number one
-- Merit number two
-
-<div>
-  <p class="note">
-     <i>"Some question"</i>
-  </p>
-</div>
-<div>
-  <p class="note">
-    <i>"A totally different and complex question"</i>
-  </p>
-</div>
-<div>
-  <p class="note">
-      <i>"A totally other question"</i>
-  </p>
-</div>
 
 ## **Question-Answering Datasets**
 
@@ -36,11 +16,6 @@ For more details about Break, you may refer to our [TACL 2020 paper](#paper).
   
 For the full dataset statistics please refer to our [repository](https://github.com/allenai/Break).
 
-<img src="images/qdmr01.png" height="150">
-<br>
-<img src="images/qdmr02.png" height="150">
-<br>
-<img src="images/break_question_modalities.png" height="150">
 
 ## **Paper**
 
@@ -139,7 +114,37 @@ Rank | Submission | Created | EM Dev. | EM Test
 
 <div id="explore"></div>
 ## **Explore**
-[Link to blogpost](/explore.md).
+[Link to dataset explorer](/explore.md).
+
+
+[Link to blogpost](/blogpost.md).
+
+- Merit number one
+- Merit number two
+
+<div>
+  <p class="note">
+     <i>"Some question"</i>
+  </p>
+</div>
+<div>
+  <p class="note">
+    <i>"A totally different and complex question"</i>
+  </p>
+</div>
+<div>
+  <p class="note">
+      <i>"A totally other question"</i>
+  </p>
+</div>
+
+
+<img src="images/qdmr01.png" height="150">
+<br>
+<img src="images/qdmr02.png" height="150">
+<br>
+<img src="images/break_question_modalities.png" height="150">
+
 
 
 <div id="dowload"></div>
