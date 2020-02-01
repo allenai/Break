@@ -124,7 +124,7 @@ Rank | Submission | Created | EM Dev. | EM Test
 
 ## **Explore**
 
-- To learn more about Break [read our blogpost](/blogpost.md).  
+- To learn more about Break [check out our blogpost](/blogpost.md).  
 - To view question decomposition examples [explore Break](/explore.md).
 
 <p float="left">
