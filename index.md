@@ -144,7 +144,7 @@ Rank | Submission | Created | EM Dev. | EM Test
 - Questions from 10 question-answering datasets  
 - Questions from 3 distinct modalities - text, images and database  
 
-- To learn more abour Break [read our blogpost](/blogpost.md).  
+- To learn more about Break [read our blogpost](/blogpost.md).  
 - To view question decomposition examples [explore Break](/explore.md).
 
 <img src="images/qdmr01.png" height="170">
