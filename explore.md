@@ -42,6 +42,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
     <i>How many of their wins for the season were not against teams with winning records?</i>
   </p>
 </div>
+
 ```
  1. return the season  
  2. return wins of #1  
