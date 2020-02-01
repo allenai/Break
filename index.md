@@ -133,8 +133,6 @@ To learn more abour Break [read our blogpost](/blogpost.md).
 To view question decomposition examples [explore Break](/explore.md).
 
 <img src="images/qdmr01.png" height="170">
-<br>
-<img src="images/qdmr02.png" height="170">
 
 
 <div id="dowload"></div>
