@@ -27,9 +27,15 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
     <i>"A totally different and complex question"</i>
   </p>
 </div>
+How many of their wins for the season were not against teams with winning records?
 <div>
-  <p class="note">
-      <i>"A totally other question"</i><br> "more text"
+  <p class="decomp">
+   1. return the  season  
+   2. return wins of #1  
+   3. return #2 that were against teams with winning records  
+   4. return number of  #2  
+   5. return number of  #3  
+   6. return the  difference of #4 and  #5  
   </p>
 </div>
 
