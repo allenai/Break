@@ -47,8 +47,7 @@ Our paper ["Break It Down: A Question Understanding Benchmark"](), which has bee
 
 ### The *"Break It Down!"* Challenge
 
-Break is aimed at enabling systems to effectively parse natural questions into their respective QDMR representations.  
-We hope that the release of Break, and its associated challenges, will help spur the development of question understanding models. We further encourage the NLP community to also treat Break as a resource for building better question answering systems.  
+Break is aimed at enabling systems to effectively parse natural questions into their respective QDMR representations. We hope that the release of Break, and its associated challenges, will help spur the development of question understanding models. We further encourage the NLP community to also treat Break as a resource for building better question answering systems.  
 
 Our research has shown that multi-hop QA models utilizing Break decompositions greatly outperform a string baseline which does not. Additionally, we provide [neural QDMR parsing models](https://allenai.github.io/Break/#leaderboard), trained on Break, that beat a rule-based baseline that employs dependency parsing and coreference resolution.  
 Visit the [Break website]() to view the leaderboard and learn more.
