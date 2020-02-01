@@ -113,6 +113,7 @@ Tomer Wolfson, Mor Geva, Ankit Gupta, Matt Gardner, Yoav Goldberg, Daniel Deutch
 </div>
 
 
+<div id="leaderboard"></div>
 ## **Leaderboard**
 
 ### **Submission**
@@ -126,8 +127,10 @@ Rank | Submission | Created | EM Dev. | EM Test
 2 | Second Model | Second Model | `00.00`  | `00.00` 
 
 
+<div id="explore"></div>
 ## **Explore**
 [Link to blogpost](/explore.md).
+
 
 <div id="dowload"></div>
 ## **Download**
