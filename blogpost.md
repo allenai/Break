@@ -17,7 +17,7 @@ We express complex questions through "atomic" sub-questions (operators) that can
 
 In contrast to semantic parsing, QDMR is expressed through natural language phrases, facilitating its annotation at scale by non-experts. 
 Below are examples of questions and their QDMR representations. Note that the references to previous decomposition steps enable us to represent QDMR as a directed-acyclic-graph.  
-For the full description of the QDMR formalism please refer to [our paper]().
+For the full description of the QDMR formalism please refer to [our paper](https://allenai.github.io/Break/#paper).
 
 <p float="left">
   <a href="https://allenai.github.io/Break/images/qdmr01.png"> 
@@ -31,14 +31,14 @@ For the full description of the QDMR formalism please refer to [our paper]().
 
 ### The Data
 
-QDMR serves as the formalism for creating Break, a question understanding dataset, aimed at probing question understanding models. It features 83,978 natural language questions, annotated with their Question Decomposition Meaning Representations (QDMRs). Break contains human composed questions, sampled from 10 leading question-answering benchmarks:
+QDMR serves as the formalism for creating Break, a dataset aimed at probing question understanding models. It features 83,978 natural language questions, annotated with their Question Decomposition Meaning Representations (QDMRs). Break contains human composed questions, sampled from 10 leading question-answering benchmarks:
 
 * **Semantic Parsing**: [Academic](https://github.com/jkkummerfeld/text2sql-data), [ATIS](https://github.com/jkkummerfeld/text2sql-data), [GeoQuery](https://github.com/jkkummerfeld/text2sql-data), [Spider](https://yale-lily.github.io/spider)
 * **Visual Question Answering**: [CLEVR-humans](https://cs.stanford.edu/people/jcjohns/clevr/), [NLVR2](http://lil.nlp.cornell.edu/nlvr/)
 * **Reading Comprehension (and KB-QA)**: [ComQA](http://qa.mpi-inf.mpg.de/comqa/), [ComplexWebQuestions](https://www.tau-nlp.org/compwebq), [DROP](https://allennlp.org/drop), [HotpotQA](https://hotpotqa.github.io/)  
 
 Break was collected through crowdsourcing, with a user interface that allows us to train crowd workers to produce quality decompositions. Validating the quality of annotated structures reveals 97.4% to be correct.  
-Our paper ["Break It Down: A Question Understanding Benchmark"](), which has been accepted for publication in Transactions of the Association for Computational Linguistics, has a full description of the data collection process. To see some more examples from the dataset, please check out [the Break website](). For the full statistics on Break please refer to the [dataset repository]().
+Our paper ["Break It Down: A Question Understanding Benchmark"](https://allenai.github.io/Break/#paper), which has been accepted for publication in Transactions of the Association for Computational Linguistics, has a full description of the data collection process. To see some more examples from the dataset, please check out [the Break website](https://allenai.github.io/Break/). For the full statistics on Break please refer to the [dataset repository](https://github.com/allenai/Break).
 
 <a href="https://allenai.github.io/Break/images/break_question_modalities.png"> 
     <img src="images/break_question_modalities.png" height="300">
@@ -47,10 +47,11 @@ Our paper ["Break It Down: A Question Understanding Benchmark"](), which has bee
 
 ### The *"Break It Down!"* Challenge
 
-Break is aimed at enabling systems to effectively parse natural questions into their respective QDMR representations. We hope that the release of Break and its QDMR parsing challenge, will spur the development of future question understanding models. We further encourage the NLP community to also treat Break as a resource for building better question answering systems.  
+Break is aimed at enabling systems to effectively parse natural questions into their respective QDMR representations. We hope that this dataset, and its QDMR parsing challenge, will spur the development of future question understanding models. We further encourage the NLP community to also treat Break as a resource for building better question answering systems.  
 
 Our research has shown that multi-hop QA models utilizing Break decompositions greatly outperform a string baseline which does not. Additionally, we provide [neural QDMR parsing models](https://allenai.github.io/Break/#leaderboard), trained on Break, that beat a rule-based baseline that employs dependency parsing and coreference resolution.  
-Visit the [Break website]() to view the leaderboard and learn more.
+Visit the [Break website](https://allenai.github.io/Break/) to view the leaderboard and learn more.
+
 
 
 [1] Francis Jeffry Pelletier. 1994. "The principle of semantic compositionality." *Topoi, 13(1):11–24*.
