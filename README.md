@@ -42,17 +42,17 @@ The code and models presented in our [paper](https://arxiv.org/), see our reposi
 ### Data Format
 
 * QDMR & QDMR high-level:
-	* ``train.csv``, ``dev.csv``, ``test.csv``:
+	* train.csv, dev.csv, test.csv:
 		* **``question_id``**: The Break question id, of the format ``[ORIGINAL DATASET]_[original split]_[original id]``. E.g., ``NLVR2_dev_dev-1049-1-1`` is from NLVR2 dev split with its NLVR2 id being, ``dev-1049-1-1``.
 		* **``question_text``**:
 		* **``decomposition``**:
 		* **``operators``**:
 		* **``split``**:
-	* **``train_lexicon_tokens.json``**,**``dev_lexicon_tokens.json``**,**``test_lexicon_tokens.json``**:
+	* train_lexicon_tokens.json, dev_lexicon_tokens.json, test_lexicon_tokens.json:
 		* **``"source"``**:
 		* **``"allowed_tokens"``**:
 * logical-forms:
-	* ``train.csv``,``dev.csv``,``test.csv``:
+	* train.csv, dev.csv, test.csv:
 		* **``question_id``**:
 		* **``question_text``**:
 		* **``decomposition``**:
