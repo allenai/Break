@@ -330,17 +330,14 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (b) <i>How many of their wins for the season were not against teams with winning records?</i>
+    (b) <i>Did the Battle of Peleliu or the Seven Days Battles last longer?</i>
   </p>
 </div>
 
 ```
- 1. return the season  
- 2. return wins of #1  
- 3. return #2 that were against teams with winning records    
- 4. return number of #2  
- 5. return number of #3  
- 6. return the difference of #4 and #5  
+ 1. return how long did the Battle of Peleliu last  
+ 2. return how long did the Seven Days Battle last  
+ 3. return which is longer of #1 , #2
 ```
 
 <div>
