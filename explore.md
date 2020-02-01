@@ -1,4 +1,4 @@
-## Welcome to break explorer
+# Explore Break
 
 <div>
   <p class="note">
