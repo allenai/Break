@@ -9,8 +9,8 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
   * [GeoQuery](#geoquery)
   * [Spider](#spider)
 * **Visual Question Answering**: 
-  * [CLEVR-humans](#spider)
-  * [NLVR2](#spider)
+  * [CLEVR-humans](#clevr-humans)
+  * [NLVR2](#nlvr2)
 * **Reading Comprehension (and KB-QA)**: 
   * [ComQA](#comqa)
   * [ComplexWebQuestions](#complexwebquestions)
@@ -245,65 +245,71 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (a) How many of their wins for the season were not against teams with winning records?
+    (a) What country is the composer of Up Out My Face from?
   </p>
 </div>
 
 ```
- 1. return the season  
- 2. return wins of #1  
- 3. return #2 that were against teams with winning records    
- 4. return number of #2  
- 5. return number of #3  
- 6. return the difference of #4 and #5  
+ 1. return Up Out My Face   
+ 2. return composer of #1   
+ 3. return country of #2
 ```
 
 
 <div>
   <p class="note">
-    (b) How many of their wins for the season were not against teams with winning records?
+    (b) What do most people speak where the Nigerian pound is used?
   </p>
 </div>
 
 ```
- 1. return the season  
- 2. return wins of #1  
- 3. return #2 that were against teams with winning records    
- 4. return number of #2  
- 5. return number of #3  
- 6. return the difference of #4 and #5  
+ 1. return the Nigerian pound   
+ 2. return where is #1 used 
+ 3. return what do most people speak in #2
 ```
 
 ### **DROP**
 
 <div>
   <p class="note">
-    (a) How many of their wins for the season were not against teams with winning records?
+    (a) What event happened first, Jabal Shammar being annexed or the preliminary attack on Taif?
   </p>
 </div>
 
 ```
- 1. return the season  
- 2. return wins of #1  
- 3. return #2 that were against teams with winning records    
- 4. return number of #2  
- 5. return number of #3  
- 6. return the difference of #4 and #5  
+ 1. return Jabal Shammar being annexed  
+ 2. return the preliminary attack on Taif  
+ 3. return when was #1  
+ 4. return when was #2   
+ 5. return which is lowest of #3 , #4
 ```
 
 <div>
   <p class="note">
-    (b) How many of their wins for the season were not against teams with winning records?
+    (b) How many years passed between rebellion breaking out at Pegu and Pegu began their annual raids?
   </p>
 </div>
 
 ```
- 1. return the season  
- 2. return wins of #1  
- 3. return #2 that were against teams with winning records    
- 4. return number of #2  
- 5. return number of #3  
- 6. return the difference of #4 and #5  
+ 1. return the rebellion breaking out at Pegu   
+ 2. return Pegu began their annual raids   
+ 3. return year of #1   
+ 4. return year of #2 
+ 5. return difference of #4 and  #3
+```
+
+<div>
+  <p class="note">
+    (c) Who threw the most touchdowns in the first half?
+  </p>
+</div>
+
+```
+ 1. return touchdowns   
+ 2. return #1 in the first half   
+ 3. return who threw #2   
+ 4. return number of #2 for each #3   
+ 5. return #3 where #4 is highest
 ```
 
 ### **HotpotQA** (*high-level*)
