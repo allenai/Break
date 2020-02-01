@@ -43,7 +43,7 @@ The code and models presented in our [paper](https://arxiv.org/), see our reposi
 
 * **``QDMR``** & **``QDMR high-level``**:
 	* ``train.csv``,``dev.csv``,``test.csv``:
-		* ``question_id``:
+		* ``question_id``: The Break question id, of the format ``[ORIGINAL DATASET]_[original split]_[original id]``, e.g., ``NLVR2_dev_dev-1049-1-1`` is from the NLVR2 dataset's dev split with its original NLVR2 id being, dev-1049-1-1.
 		* ``question_text``:
 		* ``decomposition``:
 		* ``operators``:
