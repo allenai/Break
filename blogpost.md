@@ -16,11 +16,11 @@ Below we see to examples of questions along with their QDMR representations. Not
 For the full description of the QDMR formalism please refer to [our paper]().
 
 <p float="left">
-  <a href="https://allenai.org/data/data-all.html">
+  <a href="https://allenai.github.io/Break/images/qdmr01.png"> 
     <img src="images/qdmr01.png" height="170">
   </a>
-  <a href="https://allenai.org/">
-    <img src="images/qdmr01.png" height="170">
+  <a href="https://allenai.github.io/Break/images/qdmr02.png"> 
+    <img src="images/qdmr02.png" height="170">
   </a>
 </p>
 
