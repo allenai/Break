@@ -107,12 +107,14 @@ An automatic submission to the [AI2 Leaderboard page](https://leaderboard.allena
 ### **Results**
 
 **QDMR Parsing**
+
 Rank | Submission | Created | EM Dev. | EM Test
 ------------ | ------------- | ------------- | ------------- | -------------
 1 | CopyNet | First Model | `00.00`  | `00.00`
 2 | RuleBased | Second Model | `00.00`  | `00.00` 
 
 **High-level QDMR Parsing**
+
 Rank | Submission | Created | EM Dev. | EM Test
 ------------ | ------------- | ------------- | ------------- | -------------
 1 | CopyNet *(Wolfson and Geva et al. 2020)* | `Feb 1, 2020` | `00.00`  | `00.00`
