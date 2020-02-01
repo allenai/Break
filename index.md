@@ -110,16 +110,16 @@ An automatic submission to the [AI2 Leaderboard page](https://leaderboard.allena
 
 Rank | Submission | Created | EM Dev. | EM Test
 ------------ | ------------- | ------------- | ------------- | -------------
-1 | CopyNet *([Wolfson et al., TACL 2020](https://arxiv.org/))* | `Feb 1, 2020` | `15.40`  | `15.70`
-2 | RuleBased *([Wolfson et al., TACL 2020](https://arxiv.org/))* | `Feb 1, 2020` | `00.20`  | `00.30` 
+1 | CopyNet *([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | `15.40`  | `15.70`
+2 | RuleBased *([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | `00.20`  | `00.30` 
 
 
 **High-level QDMR Parsing**
 
 Rank | Submission | Created | EM Dev. | EM Test
 ------------ | ------------- | ------------- | ------------- | -------------
-1 | CopyNet *([Wolfson et al., TACL 2020](https://arxiv.org/))* | `Feb 1, 2020` | `08.10`  | `08.30`
-2 | RuleBased *([Wolfson et al., TACL 2020](https://arxiv.org/))* | `Feb 1, 2020` | `01.00`  | `01.20` 
+1 | CopyNet *([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | `08.10`  | `08.30`
+2 | RuleBased *([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | `01.00`  | `01.20` 
 
 
 ## **Explore**
