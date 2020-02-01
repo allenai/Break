@@ -34,7 +34,7 @@ The code and models presented in our [paper](https://arxiv.org/), see our reposi
 ### Datasets
 
 
-* [**``QDMR``**](https://github.com/allenai/Break/tree/master/break_dataset/QDMR): Contains questions from existing QA benchmarks over text, images and databases annotated with their Question Decomposition Meaning Representation. In addition to the train, dev and (hidden) test set, we provide the ``lexicon_tokens`` files. For each question the lexicon contains the set of valid tokens the could *potentially* appear in its decomposition (see Section 3 of [our paper](https://arxiv.org/)).
+* [**``QDMR``**](https://github.com/allenai/Break/tree/master/break_dataset/QDMR): Contains questions over text, images and databases annotated with their Question Decomposition Meaning Representation. In addition to the train, dev and (hidden) test we provide ``lexicon_tokens`` files. For each question the lexicon file contains the set of valid tokens that could *potentially* appear in its decomposition (see Section 3 of [our paper](https://arxiv.org/)).
 * [**``QDMR high-level``**](https://github.com/allenai/Break/tree/master/break_dataset/QDMR-high-level):
 * [**``logical-forms``**](https://github.com/allenai/Break/tree/master/break_dataset/logical-forms):
 
