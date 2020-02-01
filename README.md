@@ -35,7 +35,7 @@ The code and models presented in our [paper](https://arxiv.org/), see our reposi
 
 
 * [**``QDMR``**](https://github.com/allenai/Break/tree/master/break_dataset/QDMR): Contains questions over text, images and databases annotated with their Question Decomposition Meaning Representation. In addition to the train, dev and (hidden) test sets we provide ``lexicon_tokens`` files. For each question, the lexicon file contains the set of valid tokens that could *potentially* appear in its decomposition ([Section 3](https://arxiv.org/)).
-* [**``QDMR high-level``**](https://github.com/allenai/Break/tree/master/break_dataset/QDMR-high-level): Contains questions annotated with the *high-level* variant of QDMR. These decomposition are exclusive to Reading Comprehension tasks ([Section 2](https://arxiv.org/)). ``lexicon_tokens`` are also provided. 
+* [**``QDMR high-level``**](https://github.com/allenai/Break/tree/master/break_dataset/QDMR-high-level): Contains questions annotated with the *high-level* variant of QDMR. These decomposition are exclusive to Reading Comprehension tasks ([Section 2](https://arxiv.org/)). ``lexicon_tokens`` files are also provided. 
 * [**``logical-forms``**](https://github.com/allenai/Break/tree/master/break_dataset/logical-forms): Contains questions and QDMRs annotated with full logical-forms of QDMR operators + arguments. Full logical-forms were inferred by the annotation-consistency algorithm described in [Section 4.3](https://arxiv.org/).
 
 
