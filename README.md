@@ -10,7 +10,7 @@ The code and models presented in our [paper](https://arxiv.org/), see our reposi
 
 
 * **Key Links**
-	* **Break Dataset**: [https://github.com/allenai/Break/tree/master/break_dataset](https://github.com/allenai/Break/tree/master/break_dataset)
+	* **Break Dataset**: [Download](https://github.com/allenai/Break/blob/master/break_dataset/Break-dataset.zip)
 	* **Paper**: ["Break It Down: A Question Understanding Benchmark"
 ](https://arxiv.org/)
 	* **Paper Code**: [https://github.com/tomerwolgithub/Break](https://github.com/tomerwolgithub/Break)
