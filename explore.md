@@ -81,7 +81,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
  4. return border states of #3 
 ```
 
-### Spider 
+### **Spider** 
 
 <div>
   <p class="note">
@@ -115,54 +115,51 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
 
 <div>
   <p class="note">
-    (c) <i>How many of their wins for the season were not against teams with winning records?</i>
+    (c) <i>Find the total number of students enrolled in the colleges that were founded after the year of 1850 for each affiliation type.</i>
   </p>
 </div>
 
 ```
- 1. return the season  
- 2. return wins of #1  
- 3. return #2 that were against teams with winning records    
- 4. return number of #2  
- 5. return number of #3  
- 6. return the difference of #4 and #5  
+ 1. return affiliation types  
+ 2. return colleges of #1   
+ 3. return #2 founded after 1850   
+ 4. return students enrolled in #3   
+ 5. return number of #4 for each #1
 ```
 
-### CLEVR-humans
+### **CLEVR-humans**
 
 
 <div>
   <p class="note">
-    (a) <i>How many of their wins for the season were not against teams with winning records?</i>
+    (a) <i>How many silver spheres are not the smallestt shape?</i>
   </p>
 </div>
 
 ```
- 1. return the season  
- 2. return wins of #1  
- 3. return #2 that were against teams with winning records    
- 4. return number of #2  
- 5. return number of #3  
- 6. return the difference of #4 and #5  
+ 1. return spheres   
+ 2. return #1 that are silver   
+ 3. return size of #2   
+ 4. return #2 where #3 is the lowest  
+ 5. return #2 besides #4   
+ 6. return number of  #5
 ```
 
 
 <div>
   <p class="note">
-    (a) <i>How many of their wins for the season were not against teams with winning records?</i>
+    (a) <i>What one color are four of the objects?</i>
   </p>
 </div>
 
 ```
- 1. return the season  
- 2. return wins of #1  
- 3. return #2 that were against teams with winning records    
- 4. return number of #2  
- 5. return number of #3  
- 6. return the difference of #4 and #5  
+ 1. return objects  
+ 2. return colors of #1   
+ 3. return number of #1 for each #2   
+ 4. return #2 where #3 is four
 ```
 
-### NLVR2
+### **NLVR2**
 
 <div>
   <p class="note">
@@ -209,7 +206,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
  6. return the difference of #4 and #5  
 ```
 
-### ComQA
+### **ComQA**
 
 
 <div>
@@ -243,7 +240,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
  6. return the difference of #4 and #5  
 ```
 
-### ComplexWebQuestions
+### **ComplexWebQuestions**
 
 
 <div>
@@ -277,7 +274,7 @@ Note that *high-level* QDMRs are less coarse in their decomposition, as they are
  6. return the difference of #4 and #5  
 ```
 
-### DROP
+### **DROP**
 
 <div>
   <p class="note">
