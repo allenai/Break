@@ -46,7 +46,7 @@ The code and models presented in our [paper](https://arxiv.org/), see our reposi
 		* **``question_id``**: The Break question id, of the format ``[ORIGINAL DATASET]_[original split]_[original id]``. E.g., ``NLVR2_dev_dev-1049-1-1`` is from NLVR2 dev split with its NLVR2 id being, ``dev-1049-1-1``.
 		* **``question_text``**: Original question text.
 		* **``decomposition``**: The annotated QDMR of the question, its steps delimited by ``;``. E.g., ``return flights ;return #1 from  washington ;return #2 to boston ;return #3 in the afternoon``.
-		* **``operators``**: List of tagged QDMR operators for each step. QDMR operators are fully described in ([Section 2](https://arxiv.org/)) of the paper. The potential operators are, ``select, project, filter, aggregate, group, superlative, comparative, union, intersection, discard, sort, boolean, arithmetic, comparison``. Unidefntified operators are tagged with ``None``.
+		* **``operators``**: List of tagged QDMR operators for each step. QDMR operators are fully described in ([Section 2](https://arxiv.org/)) of the paper. The 14 potential operators are, ``select, project, filter, aggregate, group, superlative, comparative, union, intersection, discard, sort, boolean, arithmetic, comparison``. Unidefntified operators are tagged with ``None``.
 		* **``split``**: The Break dataset split of the example, train / dev / test.
 	* train_lexicon_tokens.json, dev_lexicon_tokens.json, test_lexicon_tokens.json:
 		* **``"source"``**: The source question.
@@ -56,7 +56,7 @@ The code and models presented in our [paper](https://arxiv.org/), see our reposi
 		* **``question_id``**: Same as before.
 		* **``question_text``**: Same as before.
 		* **``decomposition``**: Same as before.
-		* **``program``**:
+		* **``program``**: List of QDMR operators and arguments that the original QDMR was mapped to. E.g., fir the QDMR, ``return citations ;return #1 of Making database systems usable ;return number of  #2``, its program would be, ``[FILTER['#1', 'of Making database systems usable'], AGGREGATE['count', '#2']]``.
 		* **``operators``**: Same as before.
 		* **``split``**: Same as before.
 
