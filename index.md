@@ -110,14 +110,15 @@ An automatic submission to the [AI2 Leaderboard page](https://leaderboard.allena
 
 Rank | Submission | Created | EM Dev. | EM Test
 ------------ | ------------- | ------------- | ------------- | -------------
-1 | CopyNet | First Model | `00.00`  | `00.00`
-2 | RuleBased | Second Model | `00.00`  | `00.00` 
+1 | CopyNet *(Wolfson and Geva et al. 2020)* | `Feb 1, 2020` | `15.40`  | `15.7`
+2 | RuleBased *(Wolfson and Geva et al. 2020)* | `Feb 1, 2020` | `00.00`  | `00.00` 
+
 
 **High-level QDMR Parsing**
 
 Rank | Submission | Created | EM Dev. | EM Test
 ------------ | ------------- | ------------- | ------------- | -------------
-1 | CopyNet *(Wolfson and Geva et al. 2020)* | `Feb 1, 2020` | `00.00`  | `00.00`
+1 | CopyNet *(Wolfson and Geva et al. 2020)* | `Feb 1, 2020` | `08.10`  | `08.30`
 2 | RuleBased *(Wolfson and Geva et al. 2020)* | `Feb 1, 2020` | `00.00`  | `00.00` 
 
 <div id="explore"></div>
