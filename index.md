@@ -109,7 +109,7 @@ An automatic submission to the [AI2 Leaderboard page](https://leaderboard.allena
 **QDMR Parsing**
 
 Rank | Submission | Created | EM Dev. | EM Test | GED Dev. | GED Test | SARI Dev. | SARI Test
------------- | ------------- | ------------- | ------------- | -------------
+------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 1 | CopyNet *([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | `15.40`  | `15.70` | `15.40`  | `15.70` | `15.40`  | `15.70`
 2 | RuleBased *([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | `00.20`  | `00.30`  | `00.20`  | `00.30`  | `00.20`  | `00.30` 
 
