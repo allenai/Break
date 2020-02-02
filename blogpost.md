@@ -14,9 +14,12 @@ This highlights the importance of **question understanding**, as a standalone la
 
 
 ### Representing the Meaning of Questions
+
+Thinking how to represent the meaning of complex questions, we considered two key features:
+- Capturing the sequence of computation steps for answering the question
+- Expressing the formalism in **natural language**, making it easy to annotate by non-experts at scale
 We introduce a formalism for representing the meaning of questions that is agnostic to its underlying information source. Our formalism, Question Decomposition Meaning Representation (QDMR), is inspired by database query languages.  
 We express complex questions through "atomic" sub-questions (operators) that can be executed in sequence to answer the original question. Each QDMR operator either selects a set of entities, retrieves information about their attributes, or aggregates information over entities. While this has been formalized in knowledge-base (KB) query languages, the same intuition can be applied to images and text. QDMR abstracts away the context, needed to answer the question, allowing in principle to query multiple sources for the same question.   
-In contrast to semantic parsing, QDMR is expressed through natural language phrases, facilitating its annotation at scale by non-experts. 
 
 Below are examples of questions and their QDMR representations. Note that the references to previous decomposition steps enable us to represent QDMR as a directed-acyclic-graph.  
 For the full description of the QDMR formalism please refer to [our paper](https://allenai.github.io/Break/#paper).
