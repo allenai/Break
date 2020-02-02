@@ -53,10 +53,10 @@ Our paper ["Break It Down: A Question Understanding Benchmark"](https://allenai.
 <center>
     <p float="left">
       <a href="https://allenai.github.io/Break/images/break_op_distribution.png"> 
-        <img src="images/break_op_distribution.png" height="250">
+        <img src="images/break_op_distribution.png" height="300">
       </a>
       <a href="https://allenai.github.io/Break/images/break_op_distribution_high-level.png"> 
-        <img src="images/break_op_distribution_high-level.png" height="250">
+        <img src="images/break_op_distribution_high-level.png" height="300">
       </a>
     </p>
 </center>
