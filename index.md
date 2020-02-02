@@ -6,10 +6,12 @@ This dataset was created by a team of [NLP researchers](#authors) at [Tel Aviv U
 
 For more details on Break, please refer to our [TACL 2020 paper](#paper), and to our [blogpost](https://allenai.github.io/Break/blogpost.html).  
 
+<p float="center">
+    <a href="https://allenai.github.io/Break/images/qdmr01.png"> 
+        <img src="images/qdmr01.png" height="170">
+      </a>
+</p>
 
-<a href="https://allenai.github.io/Break/images/qdmr01.png"> 
-    <img src="images/qdmr01.png" height="170">
-  </a>
 
 ## **Question-Answering Datasets**
 
