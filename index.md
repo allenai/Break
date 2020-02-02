@@ -7,6 +7,10 @@ This dataset was created by a team of [NLP researchers](#authors) at [Tel Aviv U
 For more details on Break, please refer to our [TACL 2020 paper](#paper), and to our [blogpost](https://allenai.github.io/Break/blogpost.html).  
 
 
+<a href="https://allenai.github.io/Break/images/qdmr01.png"> 
+    <img src="images/qdmr01.png" height="170">
+  </a>
+
 ## **Question-Answering Datasets**
 
 The Break dataset contains questions from the following 10 datasets:  
@@ -123,8 +127,7 @@ Rank | Submission | Created | EM Dev. | EM Test | SARI Dev. | SARI Test | GED De
 
 ## **Explore**
 
-- To learn more about Break [check out our blogpost](/blogpost.md).  
-- To view question decomposition examples [explore Break](/explore.md).
+For more question decomposition examples, [explore Break](/explore.md).
 
 <p float="left">
   <a href="https://allenai.github.io/Break/images/qdmr01.png"> 
