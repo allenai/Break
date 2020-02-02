@@ -50,6 +50,17 @@ Our paper ["Break It Down: A Question Understanding Benchmark"](https://allenai.
      </a>
 </center>
 
+<center>
+    <p float="left">
+      <a href="https://allenai.github.io/Break/images/break_op_distribution.png"> 
+        <img src="images/break_op_distribution.png" height="190">
+      </a>
+      <a href="https://allenai.github.io/Break/images/break_op_distribution_high-level.png"> 
+        <img src="images/break_op_distribution_high-level.png" height="190">
+      </a>
+    </p>
+</center>
+
 ### The *"Break It Down!"* Challenge
 
 Break is aimed at enabling systems to effectively parse natural questions into their respective QDMR representations. We hope that this dataset, and its QDMR parsing challenge, will spur the development of future question understanding models. We further encourage the NLP community to also treat Break as a resource for building better question answering systems.  
