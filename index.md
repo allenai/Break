@@ -110,7 +110,7 @@ An automatic submission to the [AI2 Leaderboard page](https://leaderboard.allena
 
 Rank | Submission | Created | EM Dev. | EM Test | GED Dev. | GED Test | SARI Dev. | SARI Test
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-1 | <font face="Times New Roman">CopyNet</font> <br>*([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | `0.154`  | `0.157` | `0.318`  | `0.322` | `0.748`  | `0.746`
+1 | CopyNet <br><font face="Times New Roman">*([Wolfson et al., TACL 2020](https://arxiv.org/))*</font> | Feb 1, 2020 | `0.154`  | `0.157` | `0.318`  | `0.322` | `0.748`  | `0.746`
 2 | RuleBased <br>*([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | `0.002`  | `0.003`  | `0.799`  | ``  | `0.508`  | `` 
 
 
