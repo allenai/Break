@@ -102,7 +102,6 @@ Tomer Wolfson, Mor Geva, Ankit Gupta, Matt Gardner, Yoav Goldberg, Daniel Deutch
 </div>
 
 
-<div id="leaderboard"></div>
 ## **Leaderboard**
 
 ### **Submission**
@@ -129,8 +128,6 @@ Rank | Submission | Created | EM Dev. | EM Test | SARI Dev. | SARI Test | GED De
 
 To view (many) more question decomposition examples, [explore Break](/explore.md).
 
-
-<div id="dowload"></div>
 ## **Download**
 
 - For the full documentation of the dataset and its format please refer to our [Github repository](https://github.com/allenai/Break).  
