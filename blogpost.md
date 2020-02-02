@@ -21,9 +21,9 @@ Thinking how to represent the meaning of complex questions, we considered three 
 - Expressing the formalism in ***natural language***, making it easy to annotate by non-experts at scale
 
 
-We introduce, Question Decomposition Meaning Representation (QDMR), inspired by DB query languages and by semantic parsing.
-In QDMR, complex questions are expressed through sub-questions (operators), that can be executed in sequence to answer the original question. Each QDMR operator either selects a set of entities, retrieves information about their attributes, or aggregates information over entities. Basically we apply the intuition from datab query languages, also to questions over images and text.   
-By abstracting away a question's context, QDMR allows in principle to query multiple contexts for the same question. A system could potentially answer *“Name the political parties of the most densely populated country”*, by first returning *“the most densely populated country”* using a database (DB) query, then *“the political parties of #1”* using a QA model for text.
+We introduce, Question Decomposition Meaning Representation (QDMR), inspired by database (DB) query languages and by semantic parsing.
+In QDMR, complex questions are expressed through sub-questions (operators), that can be executed in sequence to answer the original question. Each QDMR operator either selects a set of entities, retrieves information about their attributes, or aggregates information over entities. Basically, we apply the intuition from DB query languages also to questions over images and text.   
+By abstracting away a question's context, QDMR allows in principle to query multiple contexts for the same question. A system could potentially answer *“Name the political parties of the most densely populated country”*, by first returning *“the most densely populated country”* using a DB query, then *“the political parties of #1”* using a QA model for text.
 
 Below are two examples of questions (over DB and images) with their QDMR representations. Note how the references to previous decomposition steps allow us to represent QDMR as a directed-acyclic-graph.  
 For the full description of the QDMR formalism please refer to [our paper](https://allenai.github.io/Break/#paper).
