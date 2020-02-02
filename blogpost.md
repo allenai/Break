@@ -16,9 +16,9 @@ This highlights the importance of **question understanding**, as a standalone la
 ### Representing the Meaning of Questions
 
 Thinking how to represent the meaning of complex questions, we considered three key features:
-- Capturing the *sequence of computation steps* for answering the question
-- Capturing the meaning of a question, *regardless of its context* (text, image, KB)
-- Expressing the formalism in *natural language*, making it easy to annotate by non-experts at scale
+- Capturing the ***sequence of computation steps*** for answering the question
+- Capturing the meaning of a question, ***regardless of its context*** (text, image, KB)
+- Expressing the formalism in ***natural language***, making it easy to annotate by non-experts at scale
 
 
 We introduce, Question Decomposition Meaning Representation (QDMR), inspired by DB query languages and by semantic parsing.
