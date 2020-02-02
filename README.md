@@ -13,7 +13,7 @@ The code and models presented in our [paper](https://arxiv.org/), see our reposi
 	* **Break Dataset**: [Download](https://github.com/allenai/Break/raw/master/break_dataset/Break-dataset.zip)
 	* **Paper**: ["Break It Down: A Question Understanding Benchmark"
 ](https://arxiv.org/)
-	* **Paper Code**: [https://github.com/tomerwolgithub/Break](https://github.com/tomerwolgithub/Break)
+	* **Models Code**: [https://github.com/tomerwolgithub/Break](https://github.com/tomerwolgithub/Break)
 	* **Leaderboard**:  [Coming Soon](https://leaderboard.allenai.org/)
 	* **Website**: [https://allenai.github.io/Break/](https://allenai.github.io/Break/)
 
