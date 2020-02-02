@@ -8,7 +8,7 @@ This highlights the importance of **question understanding**, as a standalone la
 
 <center>
     <a href="https://allenai.github.io/Break/images/qdmr_motivation.png"> 
-        <img src="images/qdmr_motivation.png" height="400">
+        <img src="images/qdmr_motivation.png" height="450">
      </a>
 </center>
 
