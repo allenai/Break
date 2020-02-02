@@ -118,7 +118,7 @@ Rank | Submission | Created | EM Dev. | EM Test | GED Dev. | GED Test | SARI Dev
 
 Rank | Submission | Created | EM Dev. | EM Test
 ------------ | ------------- | ------------- | ------------- | -------------
-1 | CopyNet *([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | `08.10`  | `08.30`
+1 | CopyNet <br>*([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | `08.10`  | `08.30`
 2 | RuleBased *([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | `01.00`  | `01.20` 
 
 
