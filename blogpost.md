@@ -24,10 +24,10 @@ For the full description of the QDMR formalism please refer to [our paper](https
 <center>
     <p float="left">
       <a href="https://allenai.github.io/Break/images/qdmr01.png"> 
-        <img src="images/qdmr01.png" height="190">
+        <img src="images/qdmr01.png" height="250">
       </a>
       <a href="https://allenai.github.io/Break/images/qdmr02.png"> 
-        <img src="images/qdmr02.png" height="190">
+        <img src="images/qdmr02.png" height="250">
       </a>
     </p>
 </center>
