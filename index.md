@@ -108,17 +108,17 @@ An automatic submission to the [AI2 Leaderboard page](https://leaderboard.allena
 
 **QDMR Parsing**
 
-Rank | Submission | Created | EM Dev. | EM Test | GED Dev. | GED Test | SARI Dev. | SARI Test
+Rank | Submission | Created | EM Dev. | EM Test | SARI Dev. | SARI Test | GED Dev. | GED Test 
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-1 | CopyNet <br>*([Wolfson et al., TACL 2020](https://arxiv.org/))* | `Feb 1, 2020` | **`0.154`**  | **`0.157`** | **`0.318`**  | **`0.322`** | **`0.748`**  | **`0.746`**
-2 | RuleBased <br>*([Wolfson et al., TACL 2020](https://arxiv.org/))* | `Feb 1, 2020` | `0.002`  | `0.003`  | `0.799`  | `0.802`  | `0.508`  | `0.506` 
+1 | CopyNet <br>*([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | **`0.154`**  | **`0.157`** | **`0.748`**  | **`0.746`** | **`0.318`**  | **`0.322`** 
+2 | RuleBased <br>*([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | `0.002`  | `0.003` | `0.508`  | `0.506` | `0.799`  | `0.802`  
 
 
 **High-level QDMR Parsing**
 
 Rank | Submission | Created | EM Dev. | EM Test | GED Dev. | GED Test | SARI Dev. | SARI Test
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-1 | CopyNet <br>*([Wolfson et al., TACL 2020](https://arxiv.org/))* | `Feb 1, 2020` | `08.10`  | `08.30` | ``  | `` | ``  | ``
+1 | CopyNet <br>*([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | `08.10`  | `08.30` | ``  | `` | ``  | ``
 2 | RuleBased <br>*([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | `01.00`  | `01.20`  | ``  | `` | ``  | ``
 
 
