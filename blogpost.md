@@ -50,7 +50,7 @@ QDMR serves as the formalism for creating Break, a dataset aimed at probing ques
 
 Break was collected through crowdsourcing, with a user interface that allows us to train crowd workers to produce quality decompositions. Validating the quality of annotated structures reveals 97.4% to be correct.  
 Our paper ["Break It Down: A Question Understanding Benchmark"](https://allenai.github.io/Break/#paper), which has been accepted for publication in Transactions of the Association for Computational Linguistics, has a full description of the data collection process. To see some more examples from the dataset, please check out [the Break website](https://allenai.github.io/Break/).   
-We present some statistics of the question types, and operators used in Break examples. Operator distribution, in particular, helps illustrate how different QA tasks sometimes require different reasoning types. For the full statistics on Break please refer to our [dataset repository](https://github.com/allenai/Break).
+We present some statistics of the question types, and operators used in Break examples. Operator distribution, in particular, helps illustrate how different QA tasks (databse vs text) sometimes require different reasoning types. For the full statistics on Break please refer to our [dataset repository](https://github.com/allenai/Break).
 
 <center>
     <a href="https://allenai.github.io/Break/images/break_question_modalities.png"> 
