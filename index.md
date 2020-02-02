@@ -116,11 +116,10 @@ Rank | Submission | Created | EM Dev. | EM Test | SARI Dev. | SARI Test | GED De
 
 **High-level QDMR Parsing**
 
-Rank | Submission | Created | EM Dev. | EM Test | GED Dev. | GED Test | SARI Dev. | SARI Test
+Rank | Submission | Created | EM Dev. | EM Test | SARI Dev. | SARI Test | GED Dev. | GED Test 
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-1 | CopyNet <br>*([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | `08.10`  | `08.30` | ``  | `` | ``  | ``
-2 | RuleBased <br>*([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | `01.00`  | `01.20`  | ``  | `` | ``  | ``
-
+1 | CopyNet <br>*([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | **`0.081`**  | **`0.083`** | **`0.722`**  | **`0.722`** | **`0.319`**  | **`0.316`** 
+2 | RuleBased <br>*([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | `0.010`  | `0.012` | `0.554`  | `0.554` | `0.659`  | `0.652`  
 
 ## **Explore**
 
