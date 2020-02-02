@@ -2,7 +2,8 @@
 
 - *Check out [our blogpost](https://medium.com/ai2-blog) at the official [AI2 blog!](https://medium.com/ai2-blog)*  
 
-Increasing work has been devoted to models that can reason and integrate information from multiple parts of an input. This includes reasoning over images, paragraphs, documents, tables and more. **Question answering** (QA) is commonly used to probe models ability to reason. In QA tasks, a natural language question is posed and is to be answered given a particular context (text, image, database). While questions often share structure regardless of their particular task (reading comprehension, visual question answering, semantic parsing), understanding the language of complex questions is being learned from scratch for each task! Note that all questions in the figure below require operations such as fact chaining and counting, regardless of their underlying modality.  
+Increasing work has been devoted to models that can reason and integrate information from multiple parts of an input. This includes reasoning over images, paragraphs, documents, tables and more. **Question answering** (QA) is commonly used to probe models ability to reason. In QA tasks, a natural language question is posed and is to be answered given a particular context. 
+The figure below presents three questions on three seprate contexts: text, image and relational database (DB). While these questions represent separate QA tasks (reading comprehension, visual question answering, semantic parsing), they all require the same operations such as fact chaining and counting. Models often ignore the fact that questions often share structure regardless of their particular task. So currently, understanding the language of complex questions is being learned from scratch for each QA task!
 
 This highlights the importance of **question understanding**, as a standalone language understanding task. To test whether a model *understands* a question, we focus on question decomposition. The ability to compose and decompose questions is at the heart of human language [1] and allows us to tackle previously unseen problems. Teaching models to decompose complex questions, brings us one step closer to solving tasks that require multi-step reasoning, where we do not have access to substantial amounts of data. 
 
@@ -17,11 +18,11 @@ This highlights the importance of **question understanding**, as a standalone la
 
 Thinking how to represent the meaning of complex questions, we considered three key features:
 - Capturing the ***sequence of computation steps*** for answering the question
-- Capturing the meaning of a question, ***regardless of its context*** (text, image, database)
+- Capturing the meaning of a question, ***regardless of its context*** (text, image, DB)
 - Expressing the formalism in ***natural language***, making it easy to annotate by non-experts
 
 
-We introduce, Question Decomposition Meaning Representation (QDMR), inspired by database (DB) query languages and by semantic parsing.
+We introduce, Question Decomposition Meaning Representation (QDMR), inspired by DB query languages and by semantic parsing.
 In QDMR, complex questions are expressed through sub-questions (operators), that can be executed in sequence to answer the original question. Each QDMR operator either selects a set of entities, retrieves information about their attributes, or aggregates information over entities. Basically, we apply the intuition from DB query languages also to questions over images and text.
 By abstracting away a question's context, QDMR allows in principle to query multiple contexts for the same question. A system could potentially answer *“Name the political parties of the most densely populated country”*, by first returning *“the most densely populated country”* using a DB query, then *“the political parties of #1”* using a QA model for text.
 
