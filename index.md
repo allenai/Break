@@ -127,16 +127,8 @@ Rank | Submission | Created | EM Dev. | EM Test | SARI Dev. | SARI Test | GED De
 
 ## **Explore**
 
-For more question decomposition examples, [explore Break](/explore.md).
+To view (many) more question decomposition examples, [explore Break](/explore.md).
 
-<p float="left">
-  <a href="https://allenai.github.io/Break/images/qdmr01.png"> 
-    <img src="images/qdmr01.png" height="170">
-  </a>
-  <a href="https://allenai.github.io/Break/images/qdmr02.png">
-    <img src="images/qdmr02.png" height="170">
-  </a>
-</p>
 
 <div id="dowload"></div>
 ## **Download**
