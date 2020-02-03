@@ -1,4 +1,4 @@
-## Break: Mapping Natural Language Questions to their Meaning Representation
+## **Break**: Mapping Natural Language Questions to their Meaning Representation
 
 - *Check out [our blogpost](https://medium.com/ai2-blog) at the official [AI2 blog!](https://medium.com/ai2-blog)*  
 
