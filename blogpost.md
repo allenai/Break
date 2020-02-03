@@ -1,6 +1,6 @@
 ## **Break**: Mapping Natural Language Questions to their Meaning Representation
 
-- *Check out [our blogpost](https://medium.com/ai2-blog) at the official [AI2 blog!](https://medium.com/ai2-blog)*  
+- *Check out [our blogpost](https://medium.com/ai2-blog/break-mapping-natural-language-questions-to-their-meaning-representation-31bb753701d6) at the official [AI2 blog!](https://medium.com/ai2-blog)*  
 
 There has been a lot of work recently on answering complex natural language questions in multiple contexts. For example, the figure below shows three questions against a text paragraph, an image and a relational database (DB). While these questions represent separate QA tasks (*reading comprehension*, *visual question answering*, *semantic parsing*), they all require the same operations, such as fact chaining and counting. Current models often ignore the fact that questions share structure, regardless of their particular QA task. Thus, understanding the language of complex questions is being learned from scratch for each task!
 
