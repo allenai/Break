@@ -24,7 +24,7 @@ For the full dataset statistics please refer to our [repository](https://github.
 
 ## **Paper**
 
-[**Break It Down: A Question Understanding Benchmark**](https://arxiv.org/)  
+[**Break It Down: A Question Understanding Benchmark**](https://arxiv.org/abs/2001.11770v1)  
 Tomer Wolfson, Mor Geva, Ankit Gupta, Matt Gardner, Yoav Goldberg, Daniel Deutch and Jonathan Berant  
 *Transactions of the Association for Computational Linguistics (TACL), 2020*  
 
@@ -114,16 +114,16 @@ An automatic submission to the [AI2 Leaderboard page](https://leaderboard.allena
 
 Rank | Submission | Created | EM Dev. | EM Test | SARI Dev. | SARI Test | GED Dev. | GED Test 
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-1 | CopyNet <br>*([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | **`0.154`**  | **`0.157`** | **`0.748`**  | **`0.746`** | **`0.318`**  | **`0.322`** 
-2 | RuleBased <br>*([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | `0.002`  | `0.003` | `0.508`  | `0.506` | `0.799`  | `0.802`  
+1 | CopyNet <br>*([Wolfson et al., TACL 2020](https://arxiv.org/abs/2001.11770v1))* | Feb 1, 2020 | **`0.154`**  | **`0.157`** | **`0.748`**  | **`0.746`** | **`0.318`**  | **`0.322`** 
+2 | RuleBased <br>*([Wolfson et al., TACL 2020](https://arxiv.org/abs/2001.11770v1))* | Feb 1, 2020 | `0.002`  | `0.003` | `0.508`  | `0.506` | `0.799`  | `0.802`  
 
 
 **High-level QDMR Parsing**
 
 Rank | Submission | Created | EM Dev. | EM Test | SARI Dev. | SARI Test | GED Dev. | GED Test 
 ------------ | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-1 | CopyNet <br>*([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | **`0.081`**  | **`0.083`** | **`0.722`**  | **`0.722`** | **`0.319`**  | **`0.316`** 
-2 | RuleBased <br>*([Wolfson et al., TACL 2020](https://arxiv.org/))* | Feb 1, 2020 | `0.010`  | `0.012` | `0.554`  | `0.554` | `0.659`  | `0.652`  
+1 | CopyNet <br>*([Wolfson et al., TACL 2020](https://arxiv.org/abs/2001.11770v1))* | Feb 1, 2020 | **`0.081`**  | **`0.083`** | **`0.722`**  | **`0.722`** | **`0.319`**  | **`0.316`** 
+2 | RuleBased <br>*([Wolfson et al., TACL 2020](hhttps://arxiv.org/abs/2001.11770v1))* | Feb 1, 2020 | `0.010`  | `0.012` | `0.554`  | `0.554` | `0.659`  | `0.652`  
 
 ## **Explore**
 
