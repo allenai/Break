@@ -4,15 +4,15 @@
 Break is a human annotated dataset of natural language questions and their Question Decomposition Meaning Representations (QDMRs). Break consists of 83,978 examples sampled from 10 question answering datasets over text, images and databases.
 This repository contains the Break dataset along with information on the exact data format.
 
-For more details check out our TACL paper ["Break It Down: A Question Understanding Benchmark"](https://arxiv.org/), and [website](https://allenai.github.io/Break/).  
-The code and models presented in our [paper](https://arxiv.org/), see our repository at: [https://github.com/tomerwolgithub/Break](https://github.com/tomerwolgithub/Break).
+For more details check out our TACL paper ["Break It Down: A Question Understanding Benchmark"](https://arxiv.org/abs/2001.11770v1), and [website](https://allenai.github.io/Break/).  
+The code and models presented in our [paper](https://arxiv.org/abs/2001.11770v1), see our repository at: [https://github.com/tomerwolgithub/Break](https://github.com/tomerwolgithub/Break).
 
 
 
 * **Key Links**
 	* **Break Dataset**: [Download](https://github.com/allenai/Break/raw/master/break_dataset/Break-dataset.zip)
 	* **Paper**: ["Break It Down: A Question Understanding Benchmark"
-](https://arxiv.org/)
+](https://arxiv.org/abs/2001.11770v1)
 	* **Models Code**: [https://github.com/tomerwolgithub/Break](https://github.com/tomerwolgithub/Break)
 	* **Leaderboard**:  [Coming Soon](https://leaderboard.allenai.org/)
 	* **Website**: [https://allenai.github.io/Break/](https://allenai.github.io/Break/)
@@ -34,9 +34,9 @@ The code and models presented in our [paper](https://arxiv.org/), see our reposi
 ### Datasets
 
 
-* [**``QDMR``**](https://github.com/allenai/Break/tree/master/break_dataset/QDMR): Contains questions over text, images and databases annotated with their Question Decomposition Meaning Representation. In addition to the train, dev and (hidden) test sets we provide ``lexicon_tokens`` files. For each question, the lexicon file contains the set of valid tokens that could *potentially* appear in its decomposition ([Section 3](https://arxiv.org/)).
-* [**``QDMR high-level``**](https://github.com/allenai/Break/tree/master/break_dataset/QDMR-high-level): Contains questions annotated with the *high-level* variant of QDMR. These decomposition are exclusive to Reading Comprehension tasks ([Section 2](https://arxiv.org/)). ``lexicon_tokens`` files are also provided. 
-* [**``logical-forms``**](https://github.com/allenai/Break/tree/master/break_dataset/logical-forms): Contains questions and QDMRs annotated with full logical-forms of QDMR operators + arguments. Full logical-forms were inferred by the annotation-consistency algorithm described in [Section 4.3](https://arxiv.org/).
+* [**``QDMR``**](https://github.com/allenai/Break/tree/master/break_dataset/QDMR): Contains questions over text, images and databases annotated with their Question Decomposition Meaning Representation. In addition to the train, dev and (hidden) test sets we provide ``lexicon_tokens`` files. For each question, the lexicon file contains the set of valid tokens that could *potentially* appear in its decomposition ([Section 3](https://arxiv.org/abs/2001.11770v1)).
+* [**``QDMR high-level``**](https://github.com/allenai/Break/tree/master/break_dataset/QDMR-high-level): Contains questions annotated with the *high-level* variant of QDMR. These decomposition are exclusive to Reading Comprehension tasks ([Section 2](https://arxiv.org/abs/2001.11770v1)). ``lexicon_tokens`` files are also provided. 
+* [**``logical-forms``**](https://github.com/allenai/Break/tree/master/break_dataset/logical-forms): Contains questions and QDMRs annotated with full logical-forms of QDMR operators + arguments. Full logical-forms were inferred by the annotation-consistency algorithm described in [Section 4.3](https://arxiv.org/abs/2001.11770v1).
 
 
 ### Data Format
@@ -46,7 +46,7 @@ The code and models presented in our [paper](https://arxiv.org/), see our reposi
 		* **``question_id``**: The Break question id, of the format ``[ORIGINAL DATASET]_[original split]_[original id]``. E.g., ``NLVR2_dev_dev-1049-1-1`` is from NLVR2 dev split with its NLVR2 id being, ``dev-1049-1-1``.
 		* **``question_text``**: Original question text.
 		* **``decomposition``**: The annotated QDMR of the question, its steps delimited by ``;``. E.g., ``return flights ;return #1 from  washington ;return #2 to boston ;return #3 in the afternoon``.
-		* **``operators``**: List of tagged QDMR operators for each step. QDMR operators are fully described in ([Section 2](https://arxiv.org/)) of the paper. The 14 potential operators are, ``select, project, filter, aggregate, group, superlative, comparative, union, intersection, discard, sort, boolean, arithmetic, comparison``. Unidefntified operators are tagged with ``None``.
+		* **``operators``**: List of tagged QDMR operators for each step. QDMR operators are fully described in ([Section 2](https://arxiv.org/abs/2001.11770v1)) of the paper. The 14 potential operators are, ``select, project, filter, aggregate, group, superlative, comparative, union, intersection, discard, sort, boolean, arithmetic, comparison``. Unidefntified operators are tagged with ``None``.
 		* **``split``**: The Break dataset split of the example, train / dev / test.
 	* train_lexicon_tokens.json, dev_lexicon_tokens.json, test_lexicon_tokens.json:
 		* **``"source"``**: The source question.
