@@ -111,7 +111,7 @@ Log on to the leaderboard website and follow the submission instructions.
 * **[Break Leaderboard](https://leaderboard.allenai.org/break/)**
 * **[Break High-Level Leaderboard](https://leaderboard.allenai.org/break_high_level/)**  
 
-*Given the GED metric is computed by an approximation algorithm, the evaluation may take several hours. The approximation algorithm also results in slightly different results then in the original paper.*
+*Given the GED metric is computed by an approximation algorithm, the evaluation may take several hours. The approximation algorithm also results in slightly different GED values then in the original paper.*
 
 ### **Results**
 
