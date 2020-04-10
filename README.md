@@ -22,6 +22,7 @@ The code and models presented in our [paper](https://arxiv.org/abs/2001.11770v1)
 
 
 ### Changelog
+- `4/10/2020` Pretrained QDMR parsing models are now [available](https://github.com/tomerwolgithub/Break/tree/master/qdmr_parsing#cofiguration-and-petrained-models).
 - `4/02/2020` New AI2 leaderboards for [Break](https://leaderboard.allenai.org/break/) and [Break High-Level](https://leaderboard.allenai.org/break_high_level/).
 - `2/26/2020` Our paper's entire codebase is now [available](https://github.com/tomerwolgithub/Break).
 - `1/31/2020` The entire codebase and official leaderboard will be released soon.
