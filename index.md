@@ -47,7 +47,7 @@ Tomer Wolfson, Mor Geva, Ankit Gupta, Matt Gardner, Yoav Goldberg, Daniel Deutch
 <div class="card">
   <img src="images/authors/author_01.jpg" alt="Avatar" style="width:100%">
   <div class="container">
-    <a href="https://github.com/tomerwolgithub">
+    <a href="https://tomerwolgithub.github.io/">
     <h4><b>Tomer Wolfson</b></h4>  
     </a>
   </div>
