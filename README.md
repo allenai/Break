@@ -116,7 +116,7 @@ QDMR *High-level* annotations by original dataset:
 
 ## HuggingFace nlp library
 
-You can also access Break as part of the  [HuggingFace `nlp` library](https://github.com/huggingface/nlp) library as follow:
+You can also access Break as part of the  [HuggingFace `nlp` library](https://github.com/huggingface/nlp):
 
 ```python
 !pip install nlp
