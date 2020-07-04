@@ -123,5 +123,5 @@ You can also access Break as part of the  [HuggingFace `nlp` library](https://gi
 from nlp import load_dataset
 dataset = load_dataset('break_data', 'QDMR-high-level')
 ```
-Break is referenced [here](https://huggingface.co/datasets/break_data) and can be browsed online as part of a simple viewer [here] (https://huggingface.co/nlp/viewer/?dataset=break_data).  
+Break is referenced [here](https://huggingface.co/datasets/break_data) and can be browsed online as part of a simple viewer [here](https://huggingface.co/nlp/viewer/?dataset=break_data).  
 More details on the options and usage for this library can be found on the `nlp` repository at [https://github.com/huggingface/nlp](https://github.com/huggingface/nlp).
