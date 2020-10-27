@@ -58,7 +58,7 @@ The code and models presented in our [paper](https://arxiv.org/abs/2001.11770v1)
 		* **``split``**: The Break dataset split of the example, train / dev / test.
 	* train_lexicon_tokens.json, dev_lexicon_tokens.json, test_lexicon_tokens.json:
 		* **``"source"``**: The source question.
-		* **``"allowed_tokens"``**: The set of valid lexicon tokens that can appear in the QDMR of the question. For the method used to generate the valide lexicon tokens, see (here)[https://github.com/tomerwolgithub/Break/blob/master/qdmr_parsing/README.md#lexicon-file-generation].
+		* **``"allowed_tokens"``**: The set of valid lexicon tokens that can appear in the QDMR of the question. For the method used to generate the valide lexicon tokens, see [here](https://github.com/tomerwolgithub/Break/blob/master/qdmr_parsing/README.md#lexicon-file-generation).
 * logical-forms:
 	* train.csv, dev.csv, test.csv:
 		* **``question_id``**: Same as before.
