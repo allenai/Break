@@ -23,7 +23,7 @@ The code and models presented in our [paper](https://arxiv.org/abs/2001.11770v1)
 
 
 ### Changelog
-- `7/04/2020` Break is now part of [HuggingFace `nlp` library](https://huggingface.co/datasets/break_data) see [details](#HuggingFace-nlp-library).
+- `7/04/2020` Break is now part of [HuggingFace `nlp` library](https://huggingface.co/datasets/break_data) see [details](#Hugging-Face-datasets-library).
 - `4/10/2020` Pretrained QDMR Parsing models are now [available](https://github.com/tomerwolgithub/Break/tree/master/qdmr_parsing#cofiguration-and-petrained-models).
 - `4/02/2020` New AI2 leaderboards for [Break](https://leaderboard.allenai.org/break/) and [Break High-Level](https://leaderboard.allenai.org/break_high_level/).
 - `2/26/2020` Our paper's entire codebase is now [available](https://github.com/tomerwolgithub/Break).
@@ -114,15 +114,15 @@ QDMR *High-level* annotations by original dataset:
 }
 ```
 
-## HuggingFace nlp library
+## Hugging Face datasets library
 
-You can also access Break as part of the  [HuggingFace `nlp` library](https://github.com/huggingface/nlp):
+You can also access Break as part of the  [Hugging Face `datasets` library](https://github.com/huggingface/datasets):
 
 ```python
-!pip install nlp
-from nlp import load_dataset
+!pip install datasets
+from datasets import load_dataset
 dataset = load_dataset('break_data', 'QDMR-high-level')
 # dataset = load_dataset('break_data', 'QDMR')
 ```
-Break is referenced [here](https://huggingface.co/datasets/break_data) and can be [browsed online](https://huggingface.co/nlp/viewer/?dataset=break_data) as part of a simple viewer.  
-More details on the options and usage for this library can be found on the `nlp` repository at [https://github.com/huggingface/nlp](https://github.com/huggingface/nlp).
+Break is referenced [here](https://huggingface.co/datasets/break_data) and can be browsed online.  
+More details on the options and usage for this library can be found on the `datasets` documentation at [https://huggingface.co/docs/datasets](https://huggingface.co/docs/datasets).
